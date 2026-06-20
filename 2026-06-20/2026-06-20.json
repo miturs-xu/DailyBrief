@@ -1,145 +1,149 @@
 {
-  "hero_headline": "美伊谈判因中东冲突取消，OpenAI强化企业管控，GLM-5.2网站设计超越Claude Fable 5",
-  "daily_overview": "今日全球呈现技术与地缘政治双重变局。在AI领域，中国智谱GLM-5.2在网站设计任务中超越Anthropic最新Claude Fable 5，标志着开源模型能力进一步逼近闭源前沿；与此同时，迈阿密初创公司Subquadratic声称突破LLM数学瓶颈，引发学界关注；OpenAI则针对企业用户推出更精细的用量分析与支出控制功能，推动AI部署规模化。在财经层面，特朗普接受卡塔尔价值4亿美元的飞机作为新空军一号引发道德争议，英国火车相撞致1死89伤再次敲响基础设施安全警钟，而美伊和平协议预期已推动燃油价格回落。在地缘政治方面，以色列与真主党冲突升级导致美伊瑞士谈判取消，但双方最终同意续签停火协议；意大利总理梅洛尼公开反驳特朗普关于其\"恳求合影\"的言论，跨大西洋盟友关系出现裂痕。",
+  "hero_headline": "GLM-5.2网页设计超越Claude Fable 5，美伊恢复外交谈判",
+  "daily_overview": "今日科技与地缘政治均出现关键转折。在AI领域，中国智谱GLM-5.2在网站设计任务中超越Anthropic的Claude Fable 5，标志着开源模型正式进入前沿竞争序列，同时Subquadratic初创公司声称突破了LLM发展的数学瓶颈，引发学界关注。中东局势出现缓和信号：美伊瑞士谈判虽被取消，但伊朗表态「准备推进外交」，以色列与真主党同意恢复停火，美伊和平进程仍在轨道上。欧洲方面，意大利总理梅洛尼公开反驳特朗普关于「恳求合影」的说法，称其「纯属编造」，显示跨大西洋盟友关系出现裂痕。英国则面临多重挑战： Midland Main Line列车相撞致1死89伤，公共借款同比增近三分之一，星巴克宣布裁撤伦敦和香港办公人员，经济压力持续上升。财经方面，日本股市首次站上7万点，美国接受卡塔尔飞机引发伦理争议。",
   "tech_briefs": [
     {
-      "title": "GLM-5.2网站设计能力超越Claude Fable 5",
+      "title": "GLM-5.2在网页设计评估中超越Claude Fable 5",
       "url": "https://x.com/Designarena/status/2068030598028087788",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Design Arena单轮HTML网站设计评测中，智谱GLM 5.2综合排名第一，较前代GLM-5.1提升5位，同时超越Claude Fable 5、Claude Opus 4.6等模型。开源模型在设计任务上展现出与闭源前沿模型正面竞争的实力。",
+      "summary": "GLM 5.2在Design Arena的单轮HTML网页设计评估中综合排名第一，较前代GLM-5.1提升5个位次，同时击败Claude Fable 5、Opus 4.6等竞品，开源模型在前沿任务上的竞争力显著增强（多家报道）。",
       "importance": 9
     },
     {
-      "title": "Anthropic发布Claude Fable 5与Claude Mythos 5双模型",
-      "url": "https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/",
-      "source": "Smol AI News",
-      "summary": "Anthropic发布两款重要模型：Claude Fable 5面向通用场景开放，Claude Mythos 5面向受限访问场景，敏感查询可回退至Claude Opus 4.8。Fable系列更新标志着Anthropic继续巩固其在对话与推理领域的技术优势。",
+      "title": "OpenAI为企业版ChatGPT推出新成本管控功能",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI News",
+      "summary": "OpenAI为企业用户引入新的支出管控和用量分析工具，帮助组织管理成本并规模化部署AI，让企业在使用ChatGPT Enterprise时能更精准地控制费用支出。",
+      "importance": 7
+    },
+    {
+      "title": "Subquadratic声称突破LLM发展的数学瓶颈",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Tech Review AI",
+      "summary": "位于迈阿密的AI初创公司Subquadratic上月正式亮相，宣称已解决一个长期阻碍大语言模型发展的数学瓶颈，若经证实将可能大幅提升模型训练与推理效率。",
       "importance": 8
     },
     {
-      "title": "Subquadratic声称突破LLM数学推理瓶颈",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-that-s-holding-back-llms/",
-      "source": "MIT Tech Review AI",
-      "summary": "迈阿密AI初创公司Subquadratic上月脱离隐身模式，宣称解决了制约大语言模型发展的数学瓶颈问题。该声明尚未经过独立验证，若属实将为LLM推理能力带来重大突破。",
-      "importance": 7
+      "title": "Anthropic CEO阿莫德：百度经历未塑造我对中国的看法",
+      "url": "https://linux.do/t/topic/2436251",
+      "source": "LinuxDo",
+      "summary": "在彭博采访中，Anthropic CEO阿莫德回应「百度经历是否塑造对华看法」时明确表示否定，称在百度工作一年更多学到的是语音识别等技术层面的东西。",
+      "importance": 6
     },
     {
-      "title": "OpenAI为ChatGPT企业版推出精细化用量管控",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News",
-      "summary": "OpenAI针对ChatGPT企业版推出新的支出控制与使用分析功能，帮助组织更精准管理AI成本并规模化部署。新功能旨在增强企业对AI支出的透明度与可控性，应对企业AI预算管理挑战。",
-      "importance": 7
-    },
-    {
-      "title": "DeepMind参与英国住房规划AI系统建设",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source": "DeepMind Blog",
-      "summary": "英国政府与Google DeepMind合作开发AI原型系统，旨在加速住房规划审批流程。该项目利用AI提升地方政府规划决策效率，缓解英国住房短缺问题，首个原型已进入测试阶段。",
+      "title": "GitHub代码智能工具codebase-memory-mcp登热榜",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "source": "GitHub Trending",
+      "summary": "codebase-memory-mcp是一个高性能代码智能MCP服务器，将代码库索引为持久知识图谱，平均仓库毫秒级处理，支持158种语言，查询延迟低于毫秒，token消耗减少99%，以单静态二进制分发，降低企业代码库AI辅助工具的部署门槛。",
       "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "特朗普接受卡塔尔飞机引道德争议",
-      "url": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00",
-      "source": "Financial Times",
-      "summary": "特朗普接受卡塔尔价值4亿美元的飞机作为新空军一号，引发个人利益与公务职责冲突的质疑。美国总统接受外国政府高额礼物涉及宪法及道德边界问题，国会与监察机构已表达关切。（多家报道）",
+      "title": "美伊和平突破与日央行加息推动日经指数首破7万点",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-19/TGWD01KGZB4S00",
+      "source": "Bloomberg Markets",
+      "summary": "本周国际政治与市场同步进入新阶段：美伊达成和平协定推动油价回落，日本央行宣布加息1%，东京证券交易所日经指数终值首次站上7万点大关，创下历史新高（多家报道）。",
       "importance": 9
     },
     {
-      "title": "英国火车相撞致1死89伤",
+      "title": "英国Midland Main Line列车相撞致1死89伤",
       "url": "https://www.ft.com/content/5a5c77ba-ae31-43ff-9e97-d8d1b4e768d8",
       "source": "Financial Times",
-      "summary": "英国Midland Main Line发生列车碰撞事故，造成至少1人死亡、89人受伤。这是近两年来英国首次发生致命铁路事故，英国铁路安全问题再次引发关注。",
+      "summary": "英国Midland Main Line发生列车碰撞事故，造成至少1人死亡、89人受伤，为近两年来英国首次发生致命铁路事故，相关调查正在进行中。",
       "importance": 8
     },
     {
-      "title": "英国公共财政堪忧，5月借款同比增近三分之一",
+      "title": "特朗普接受卡塔尔飞机作为新「空军一号」引发伦理争议",
+      "url": "https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00",
+      "source": "Financial Times",
+      "summary": "价值4亿美元的卡塔尔飞机礼物引发利益冲突指控，批评者认为这将个人商业利益与总统职责混为一谈，特朗普政府已接受该架飞机作为新的总统专机。",
+      "importance": 8
+    },
+    {
+      "title": "英国5月借款同比增近三分之一，公共财政被指脆弱",
       "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "英国5月借款达233亿英镑，较去年同期增长近三分之一。官方数据引发对公共财政\"脆弱\"状态的警告，财政大臣面临平衡经济增长与债务控制的双重压力。",
+      "summary": "官方数据显示，英国5月借款额达233亿英镑，较去年同期增长近三分之一，公共财政的脆弱性引发担忧，财政大臣面临平衡收支的压力。",
       "importance": 7
     },
     {
-      "title": "日本银行迎来黄金时代但存在隐患",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
-      "source": "The Economist Finance",
-      "summary": "日本小型银行正经历利润回升的\"黄金时代\"，但大量低收益债券无法出售形成负担。日元汇率波动与央行货币政策调整可能冲击这批银行的资产负债表稳定性。",
-      "importance": 6
-    },
-    {
-      "title": "星巴克裁员重组，香港伦敦办公室受影响",
+      "title": "星巴克裁撤伦敦和香港办公人员推进重组",
       "url": "https://www.bloomberg.com/news/articles/2026-06-19/starbucks-cuts-uk-hong-kong-office-jobs-in-restructuring-effort",
       "source": "Bloomberg Markets",
-      "summary": "星巴克在伦敦与香港区域裁员，缩减企业职能部门规模。咖啡连锁品牌给予第三方加盟商更大运营自主权，以应对全球消费放缓与竞争加剧带来的成本压力。",
-      "importance": 5
+      "summary": "星巴克裁减伦敦和香港区域中心负责国际业务的企业员工，给予第三方加盟商更大自主权，反映咖啡连锁在全球消费放缓背景下持续调整运营结构。",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "以色列与真主党同意续签停火协议",
-      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
-      "source": "The Guardian",
-      "summary": "以色列与真主党在暴力冲突升级后同意续签脆弱的停火协议。美国与伊朗在瑞士的和平协议落实谈判因黎巴嫩南部冲突被推迟，但双方最终达成续签共识，中东局势暂时缓和。（多家报道）",
+      "title": "美伊瑞士谈判取消，伊朗称「准备推进外交」",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "原定在瑞士举行的美伊和平谈判因黎以冲突升级被取消，伊朗副外长表示德黑兰「准备推进外交」，但美国必须确保以色列停止对黎巴嫩的攻击，美伊和平进程仍在艰难推进中（多家报道）。",
       "importance": 9
     },
     {
-      "title": "梅洛尼公开反驳特朗普\"恳求合影\"言论",
-      "url": "https://www.dw.com/zh/梅洛尼回呛特朗普：说我恳求合影纯粹乱讲！/a-77629773?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "意大利总理梅洛尼公开反驳特朗普称其\"恳求在G7峰会与其合影\"的言论，表示这一说法\"完全捏造\"并深感震惊。意大利外长因此取消访美行程，跨大西洋传统盟友关系出现明显裂痕。（多家报道）",
+      "title": "以色列与真主党同意恢复停火协议",
+      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+      "source": "The Guardian",
+      "summary": "以色列与真主党在短暂暴力冲突后同意恢复脆弱的停火协议，该冲突曾一度推迟美伊和平协议的第二阶段谈判，中东局势暂时缓和。",
       "importance": 8
     },
     {
-      "title": "刚果民主共和国难民营30人死亡，埃博拉威胁加剧",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "刚果民主共和国Kigonze难民营自5月以来已有至少30人死亡，埃博拉疫情威胁持续上升。营地人道主义状况严峻，医疗资源严重不足，国际救援机构呼吁紧急干预。",
+      "title": "梅洛尼反驳特朗普：合影「纯属编造」",
+      "url": "https://www.dw.com/zh/梅洛尼回呛特朗普：说我恳求合影纯粹乱讲！/a-77629773?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "意大利总理梅洛尼公开反驳特朗普关于她「恳求与其合影」的说法，称这一报道「完全是捏造」，并对此表达震惊，指责美国对待盟友的方式「已经不是第一次」，两国关系趋于紧张（多家报道）。",
       "importance": 7
     }
   ],
-  "editor_note": "今日头条呈现科技竞争与地缘博弈并行的复杂图景。AI领域开源与闭源模型差距持续收窄，中国模型在特定任务上展现出突破性能力；跨大西洋盟友间公开争执反映出后冲突时代国际秩序调整的深层张力，值得持续关注。",
+  "editor_note": "本周格局显示，AI前沿竞争正从美国单极向中美双轨演进，地缘政治缓和与摩擦并存，欧洲盟友对美态度出现微妙分化，英国则在内政与安全多重压力下艰难前行。",
   "keywords": [
-    "美伊和平协议",
-    "Claude Fable 5",
     "GLM-5.2",
-    "特朗普卡塔尔飞机",
+    "Claude Fable 5",
+    "美伊谈判",
     "以色列真主党停火",
-    "梅洛尼反驳特朗普",
-    "英国火车事故",
-    "AI开源模型",
-    "企业AI管控",
-    "中东局势"
+    "梅洛尼特朗普",
+    "日经指数7万点",
+    "英国列车事故",
+    "OpenAI企业版"
   ],
   "trading": {
-    "market_overview": "整体市场情绪偏弱，技术面分化明显。美股大盘（SPY/QQQ）维持多头排列且接近52周高点，RSI处于正常区间，动能尚可；纳指100（QQQ）单日涨2.51%表现突出。加密市场极度恐慌（恐慌贪婪指数14），BTC/ETH/SOL全线空头排列，RSI分别报35.6/38.4/41.8，均处于偏低区域但未达超卖。中概股承压，BABA的RSI仅24.7触发超卖信号，多数标的呈空头排列。商品方面黄金与原油均出现MACD死叉，WTI原油RSI 31.2接近超卖区域。美元指数DXY的RSI 70.9进入超买，10Y美债收益率回落至4.45%。整体呈现「美股强、加密弱、商品分化」的格局。",
+    "market_overview": "美股近期技术面偏强：QQQ（Nasdaq 100）单日涨2.51%、5日涨3.28%，RSI 59.1 处于偏强区间，接近52周高点（-1.07%），MACD 9.52 伴随多头排列，整体趋势「bullish」。SPY（S&P 500）同样维持多头格局，RSI 54.1，价格高于SMA20（747.08），处于52周区间中上部。科技权重股AAPL、NVDA保持多头排列。加密市场整体偏弱：BTC 报63410 USD，RSI 36 进入偏低区域，MACD -2396.12、低于信号线，空头排列，距52周高点-49.75%；ETH 报1707 USD，RSI 38.5，且刚刚触发 MACD 金叉但仍处空头排列；当前加密恐慌贪婪指数仅23（极度恐慌），总市值2.26T USD，市场情绪显著承压。中概股普遍破位：BABA RSI 24.7 处于超卖区、PDD 距52周低仅1.34%，JD、0700.HK 均线系统全面空头排列，腾讯 RSI 42.4 且跌破SMA20。商品外汇分化：黄金期货（GC=F）RSI 36.5，MACD 死叉，空头排列；WTI 原油（CL=F）RSI 仅31.2、5日跌9.83%，趋势转弱；美元指数（DXY）RSI 70.9 超买并接近52周高点，10Y 美债收益率4.45%处于多头排列。",
     "watchlist": [
       {
         "symbol": "QQQ",
         "display_name": "Nasdaq 100 ETF",
         "stance": "偏上行",
-        "rationale": "QQQ收740.62美元，RSI报59.1处于偏强区域，MACD 9.52但信号线11.11仍存收敛空间。当前价格较52周高点仅-1.07%，处于历史高位区间。5日涨幅3.28%强于SPY的1.22%，且均线系统呈标准多头排列（SMA20 726.88 < SMA50 693.18 < SMA200 628.63），技术面动能充沛，短期上行结构完整。"
+        "rationale": "QQQ 报740.62美元，单日+2.51%、5日+3.28%，RSI 14为59.1处于偏强区间，接近52周高点（-1.07%）。MACD 9.52，虽然低于信号线11.11但绝对值扩大中，价格高于SMA20（726.88）、SMA50（693.18）、SMA200（628.63）形成标准多头排列。「接近52周高」+「多头排列」+动量放大，技术面优势明显。"
       },
       {
-        "symbol": "DX-Y.NYB",
-        "display_name": "美元指数 DXY",
-        "stance": "偏下行",
-        "rationale": "美元指数报100.85，RSI 70.9已进入超买区域，同时MACD虽呈金叉但动能柱收窄。当前价格较52周高点仅-0.27%，处于极值附近。技术指标显示上行动能衰竭与超买压力并存，10Y美债收益率回落0.27%亦压制美元短期表现，存在技术性回调风险。"
-      },
-      {
-        "symbol": "BTC-USD",
-        "display_name": "Bitcoin",
+        "symbol": "NVDA",
+        "display_name": "Nvidia",
         "stance": "中性",
-        "rationale": "BTC现报63,255.86美元，RSI 35.6接近超卖边界但尚未触发。价格已从52周高点回落-49.88%，接近腰斩水平。当前均线系统完全空头排列（ SMA20 65059 < SMA50 72948 < SMA200 77126），MACD报-2408信号线-2925，绿柱扩大。恐慌贪婪指数仅14极度恐慌，但技术面超卖背景下需观察是否出现修复性反弹。"
+        "rationale": "NVDA 报210.69美元，1日+2.95%、5日+2.84%，价格210.69略低于SMA20（211.79），RSI 14为50.4贴近中性轴。MACD -1.07略低于信号线-0.11，空头动能已大幅收窄。价格高于SMA50（209.31）及SMA200（189.9），「多头排列」信号存在。短期技术面在 210 美元附近形成均衡区，上行动能略强于下行。"
+      },
+      {
+        "symbol": "BABA",
+        "display_name": "阿里巴巴 (BABA)",
+        "stance": "偏下行",
+        "rationale": "BABA 报107.1美元，RSI 14仅24.7进入超卖区，MACD -6.30低于信号线-4.84，负柱状线扩大。价格远低于SMA20（120.91）、SMA50（129.30）、SMA200（149.19）三重均线，「空头排列」清晰。当前距52周低点仅3.27%，「RSI 超卖」+「空头排列」+「接近52周低」三重信号显示下行压力仍在释放中。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
-        "stance": "中性",
-        "rationale": "WTI原油报76.54美元，RSI仅31.2接近超卖阈值，技术性反弹概率上升。但需注意价格较52周高点已下跌-35.94%，5日跌幅-9.83%跌势较猛。均线系统呈空头排列（SMA20 87.49 > SMA50 93.89 > SMA200 73.73），MACD负值扩大至-5.17，短期趋势仍偏弱，超卖信号仅提示潜在反弹可能。"
+        "stance": "偏下行",
+        "rationale": "WTI 原油报76.54美元，RSI 14仅31.2处于偏低区域，5日跌幅达-9.83%，MACD -5.17低于信号线-3.70呈负向发散。价格分别低于SMA20（87.49）、SMA50（93.89）及SMA200（73.73），虽略高于200日均线但中期趋势已转弱。「RSI 偏低」+「快速下行趋势」组合暗示短期尚未见止跌信号。"
+      },
+      {
+        "symbol": "DX-Y.NYB",
+        "display_name": "美元指数 DXY",
+        "stance": "偏上行",
+        "rationale": "DXY 报100.85，RSI 14高达70.9进入超买区，MACD 0.347高于信号线0.282呈金叉状态。价格已超越SMA20（99.59）、SMA50（98.92）、SMA200（98.68）形成标准「多头排列」，距52周高点仅-0.27%。「MACD 金叉」+「RSI 超买」+「接近52周高」三重看多共振，中期上行趋势强劲。"
       }
     ],
-    "risk_caveat": "本报告基于历史行情数据计算的技术指标，仅供客观参考，不代表对标的未来走势的预测或投资建议。技术指标存在滞后性，超买/超卖信号不代表价格必然反转。市场环境、政策因素及突发事件均可能影响实际走势，投资者需综合判断并自担风险。",
+    "risk_caveat": "以上内容基于公开行情数据的技术指标计算与文本摘要，不构成任何投资建议。过去走势不代表未来表现，市场风险自负。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -371,18 +375,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63255.86,
-        "pct1Day": -1.8047397866561163,
-        "pct5Day": -1.8091280067335032,
-        "pct52WeekHigh": -49.87573106308203,
-        "pct52WeekLow": 7.015763678841156,
-        "sma20": 65059.37890625,
-        "sma50": 72948.275,
-        "sma200": 77126.41791015625,
-        "rsi14": 35.638867826168905,
-        "macd": -2408.4853112167475,
-        "macdSignal": -2925.0527535755164,
-        "macdHistogram": 516.5674423587689,
+        "currentPrice": 63410.86,
+        "pct1Day": -1.5641254730878824,
+        "pct5Day": -1.5685244459099479,
+        "pct52WeekHigh": -49.752908265554304,
+        "pct52WeekLow": 7.2779914529986875,
+        "sma20": 65067.12890625,
+        "sma50": 72951.375,
+        "sma200": 77127.19291015626,
+        "rsi14": 36.005054419197535,
+        "macd": -2396.1206388513674,
+        "macdSignal": -2922.5798191015338,
+        "macdHistogram": 526.4591802501664,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -398,18 +402,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1705.81,
-        "pct1Day": -2.4072227897016782,
-        "pct5Day": 1.5233411491946025,
-        "pct52WeekHigh": -65.5651606576293,
-        "pct52WeekLow": 13.229574903035548,
-        "sma20": 1751.5679565429687,
-        "sma50": 2025.109208984375,
-        "sma200": 2382.937401123047,
-        "rsi14": 38.3884828717894,
-        "macd": -83.85169043140195,
-        "macdSignal": -106.74260674007591,
-        "macdHistogram": 22.890916308673965,
+        "currentPrice": 1707.21,
+        "pct1Day": -2.3271260098173845,
+        "pct5Day": 1.606663839065621,
+        "pct52WeekHigh": -65.53689914252544,
+        "pct52WeekLow": 13.322482618721725,
+        "sma20": 1751.6379516601562,
+        "sma50": 2025.13720703125,
+        "sma200": 2382.9444006347658,
+        "rsi14": 38.48388898948892,
+        "macd": -83.74001730987243,
+        "macdSignal": -106.7202721156543,
+        "macdHistogram": 22.98025480578187,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -430,18 +434,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 69.37,
-        "pct1Day": -0.3683875800398002,
-        "pct5Day": -2.523928337950661,
-        "pct52WeekHigh": -72.6037568041376,
-        "pct52WeekLow": 14.82301002139876,
-        "sma20": 69.8347843170166,
-        "sma50": 80.1840852355957,
-        "sma200": 98.09589672088623,
-        "rsi14": 41.76160928565921,
-        "macd": -2.6740405742436195,
-        "macdSignal": -3.619347274011033,
-        "macdHistogram": 0.9453066997674133,
+        "currentPrice": 69.74,
+        "pct1Day": 0.16301931912964346,
+        "pct5Day": -2.0040184847726685,
+        "pct52WeekHigh": -72.4576329756459,
+        "pct52WeekLow": 15.435443547532774,
+        "sma20": 69.85328407287598,
+        "sma50": 80.19148513793945,
+        "sma200": 98.09774669647217,
+        "rsi14": 42.44876514387566,
+        "macd": -2.644525294238207,
+        "macdSignal": -3.6134442180076123,
+        "macdHistogram": 0.9689189237694054,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -754,19 +758,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 14,
+      "value": 23,
       "classification": "Extreme Fear",
       "classificationCn": "极度恐慌",
-      "timestamp": "2026-06-19T00:00:00.000Z"
+      "timestamp": "2026-06-20T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2261097244267.8696,
-      "total24hVolumeUsd": 60203318402.64343,
-      "marketCapChangePct24h": 0.2630406390583078,
-      "btcDominance": 56.1103867511925,
-      "ethDominance": 9.109045161018017,
+      "totalMarketCapUsd": 2263662992245.97,
+      "total24hVolumeUsd": 60184813061.729744,
+      "marketCapChangePct24h": 0.29663530667957433,
+      "btcDominance": 56.16935194218189,
+      "ethDominance": 9.102498096092681,
       "activeCryptocurrencies": 17423
     },
-    "generated_at": "2026-06-19T23:44:47.310Z"
+    "generated_at": "2026-06-20T00:25:31.331Z"
   }
 }
