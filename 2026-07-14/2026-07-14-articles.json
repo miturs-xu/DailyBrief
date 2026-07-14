@@ -6,100 +6,100 @@
       "title": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "excerpt": "The open-source CapCut alternative",
-      "meta": "TypeScript · ★ 66,128 · 🍴 6,976 · 📈 1,077 stars today",
+      "meta": "TypeScript · ★ 66,229 · 🍴 6,980 · 📈 1,229 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源视频编辑器，CapCut的替代方案。无需网络即可本地处理视频，支持多轨道编辑、特效、转场等功能，适合注重隐私或在无网络环境下进行视频创作的用户。"
+      "summary": "开源视频编辑工具，作为 CapCut 的替代方案。支持多轨道时间线、视频特效、音频处理等基础剪辑功能，适合创作者快速剪辑短视频。技术基于 Electron 构建跨平台桌面应用。个人 vlogger、社交媒体内容创作者是主要用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "excerpt": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "meta": "Python · ★ 21,688 · 🍴 3,750 · 📈 1,148 stars today",
+      "meta": "Python · ★ 21,713 · 🍴 3,752 · 📈 1,153 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "个人AI交易代理工具，基于大语言模型自动化执行交易决策。支持市场分析、信号识别和交易执行流程，适合个人投资者或量化交易爱好者构建自动化交易系统。"
+      "summary": "AI 驱动的个人量化交易代理，通过自然语言指令执行交易策略。支持市场数据分析、自动化下单、组合管理等功能，帮助散户投资者实现程序化交易。适用于缺乏编程背景但希望量化交易的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "excerpt": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "meta": "TypeScript · ★ 41,842 · 🍴 4,194 · 📈 57 stars today",
+      "meta": "TypeScript · ★ 41,851 · 🍴 4,193 · 📈 78 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管虚拟陪伴AI，支持实时语音对话。将二次元角色或虚拟主播带入你的世界，支持Minecraft等游戏内互动，目标是打造Neuro-sama级别的AI主播体验。"
+      "summary": "自托管的虚拟伴侣 AI，支持实时语音交互。基于多智能体架构构建虚拟角色，可接入 Grok 等大模型。目标是打造类似 Neuro-sama 的 AI VTuber 体验，适合二次元爱好者或想部署私人 AI 伴侣的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "excerpt": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "meta": "Python · ★ 119,539 · 🍴 17,732 · 📈 1,006 stars today",
+      "meta": "Python · ★ 119,565 · 🍴 17,735 · 📈 996 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收录100+可实际运行的AI应用集合，涵盖Agent和RAG场景。提供完整代码可直接克隆部署，适合开发者快速搭建AI产品原型或学习LLM应用开发。"
+      "summary": "收录 100+ 款可实际运行的 AI 应用与 RAG 示例，覆盖 Agent 工作流、向量检索、对话系统等场景。提供完整的开源代码和部署指南，开发者可直接克隆并二次开发，大幅降低 AI 应用落地门槛。"
     },
     {
       "sourceId": "github-trending",
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "meta": "CSS · ★ 5,081 · 🍴 270 · 📈 802 stars today",
+      "meta": "CSS · ★ 5,108 · 🍴 271 · 📈 794 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向Claude Code、Cursor和Codex的反AI粗糙内容设计技能。通过优化提示词策略，帮助AI生成更高质量的代码、设计方案和文案，避免机械化的AI生成痕迹。"
+      "summary": "为 Claude Code、Cursor、Codex 等 AI 编程工具提供抗「AI 垃圾」设计能力的技能集。自动识别并优化 AI 生成的平庸代码，提升生成代码的设计质量与可维护性，适合追求代码优雅的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "excerpt": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "meta": "PowerShell · ★ 50,822 · 🍴 2,046 · 📈 74 stars today",
+      "meta": "PowerShell · ★ 50,841 · 🍴 2,047 · 📈 118 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量级PowerShell脚本，用于Windows 11系统优化。可移除预装应用、禁用遥测数据收集、关闭后台服务，让系统更精简流畅，适合追求纯净Windows体验的用户。"
+      "summary": "PowerShell 脚本工具，可卸载 Windows 11 预装应用、禁用遥测数据、关闭后台服务，深度精简系统占用。同时支持自定义调整开始菜单、任务栏、Explorer 等界面元素，提升系统运行效率。适合追求纯净 Windows 体验的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "excerpt": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "meta": "Python · ★ 84,611 · 🍴 8,339 · 📈 1,028 stars today",
+      "meta": "Python · ★ 84,668 · 🍴 8,341 · 📈 1,095 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "通用代码知识库构建工具，支持将代码、SQL、文档、图片、视频等转换为可查询的向量知识库。兼容Claude Code、Cursor等多种AI编码助手，提升代码理解与问答能力。"
+      "summary": "多 IDE 集成的 AI 编程助手，支持 Claude Code、Codex、Cursor、Gemini CLI 等工具。将代码库、SQL、文档、图片、视频等资产转化为可查询的知识库，开发者可用自然语言快速检索代码逻辑、定位 bug、生成文档。"
     },
     {
       "sourceId": "github-trending",
       "title": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "excerpt": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "meta": "HTML · ★ 12,580 · 🍴 1,478 · 📈 435 stars today",
+      "meta": "HTML · ★ 12,591 · 🍴 1,478 · 📈 451 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "1324个健身动作数据集，包含动画GIF、缩略图、肌肉群和器材信息，以及6语言分步指导。为LogPress健身记录应用提供数据结构支持，适合健身应用开发者使用。"
+      "summary": "1324 个健身动作数据集，包含动画 GIF、缩略图、肌肉群标注、设备类型及 6 语言分步教程。为健身 App 提供标准化的动作数据层，可用于训练计划生成、运动识别模型训练等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "excerpt": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "meta": "Python · ★ 120,561 · 🍴 10,690 · 📈 508 stars today",
+      "meta": "Python · ★ 120,567 · 🍴 10,692 · 📈 543 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub官方推出的Spec-Driven Development开发工具包。帮助团队通过规范驱动的方式构建项目，提供规格编写、验证和自动化工具，适合追求高质量API和系统设计的开发者。"
+      "summary": "GitHub 官方推出的 Spec-Driven Development 工具包，帮助团队以「规格文档」为开发核心。提供规范编写模板、验证工具与 CI 集成方案，确保需求、设计、代码三者一致性，降低需求变更导致的返工风险。"
     },
     {
       "sourceId": "github-trending",
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "excerpt": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "meta": "JavaScript · ★ 38,511 · 🍴 6,158 · 📈 260 stars today",
+      "meta": "JavaScript · ★ 38,532 · 🍴 6,160 · 📈 299 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向Claude Code的营销技能集，涵盖转化率优化、文案撰写、SEO、流量分析和增长工程等领域。为AI代理提供专业营销能力，适合产品经理和营销人员借助AI提升工作效率。"
+      "summary": "面向 Claude Code 和 AI Agent 的市场营销技能集，涵盖转化率优化（CRO）、文案写作、SEO 策略、数据分析和增长工程等模块。可让 AI 代理直接参与营销工作流，适合营销人员借助 AI 提升获客效率。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -334,7 +334,7 @@
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "德国电信（Deutsche Telekom）基于OpenAI技术推进AI原生转型，涵盖客户服务、员工工作流、网络运营及语音交互等核心业务场景的智能化升级。"
+      "summary": "德国电信正借助OpenAI技术转型为AI原生电信运营商，改造领域涵盖客户服务、员工工作流程、网络运营及语音交互的未来形态。"
     },
     {
       "sourceId": "openai-news",
@@ -344,7 +344,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出ChatGPT入门指南，帮助新用户了解基础对话功能，并提供写作、头脑风暴、问题解决等常见场景的使用建议。"
+      "summary": "OpenAI官方入门指南，帮助用户学习ChatGPT基础操作、开启首次对话，并掌握利用AI进行写作、脑暴和解决问题的基本方法。"
     },
     {
       "sourceId": "openai-news",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-07-09T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "GPT-5.6正式成为Microsoft 365 Copilot首选模型，覆盖Word、Excel、PowerPoint、Chat及Cowork等产品，声称可提升办公效率与生成质量。"
+      "summary": "GPT-5.6已成为Microsoft 365 Copilot的默认首选模型，在Word、Excel、PowerPoint、Chat及Cowork等应用中提供更强AI能力，实现更高效、高质量的工作输出。"
     },
     {
       "sourceId": "openai-news",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出GPT-5.5生物医学漏洞赏金计划（Bio Bug Bounty），邀请安全研究人员发现并报告模型潜在风险。"
+      "summary": "OpenAI推出GPT-5.5生物安全漏洞赏金计划，旨在激励研究人员发现并报告AI模型在生物安全领域可能存在的风险与漏洞。"
     },
     {
       "sourceId": "openai-news",
@@ -374,7 +374,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布GPT-5.6，定位为前沿智能模型，强调每token智能密度提升、单位成本性能优化，并支持按需调用更强能力处理高难度任务。"
+      "summary": "GPT-5.6主打前沿智能提升，实现每token更高智能输出及更强美元性价比，用户可按需获取处理高难度任务的更多能力。"
     },
     {
       "sourceId": "openai-news",
@@ -384,7 +384,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI将ChatGPT定位为野心勃勃的工作伙伴，ChatGPT Work可跨应用和文件自主执行任务、长时间跟进项目，将目标转化为完整成果。"
+      "summary": "ChatGPT Work作为新型智能助手，可跨应用和文件执行操作、持续数小时处理项目任务，将目标直接转化为完成的工作成果。"
     },
     {
       "sourceId": "openai-news",
@@ -880,7 +880,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布PyTorch性能分析系列第三篇，深入探讨注意力机制的profiling技术与最佳实践，助力开发者优化模型训练效率。"
+      "summary": "本条新闻无摘要信息，内容为Hugging Face官方博客关于PyTorch性能分析的技术文章（第三部分），聚焦注意力机制的优化与调试方法。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1151,7 +1151,7 @@
       "publishedAt": "2026-07-13T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Anthropthropic发布Claude Code浏览器扩展、Cursor推出通用AI代理、以及Claude Fable扩展等工具更新，旨在提升开发者编程效率与协作体验。"
+      "summary": "本条新闻无摘要信息，内容仅包含Claude Code浏览器、Cursor通用代理及Claude Fable扩展的相关链接标题。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1161,7 +1161,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "OpenAI发布GPT-5.6旗舰模型，另有Muse Spark 1.1更新及ChatGPT Work正式推出，提供更强大的企业级AI工作能力。"
+      "summary": "本条新闻无摘要信息，内容仅包含GPT-5.6、Muse Spark 1.1及ChatGPT Work的产品发布标题。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1333,7 +1333,7 @@
       "publishedAt": "2026-07-10T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI发布GPT-5.6，推出Luna/Terra/Sol分层架构及Max、Ultra努力级别选项，带来复杂配置灵活性。ChatGPT Work与Codex的用户体验划分引发讨论，部分用户反映使用门槛增加。"
+      "summary": "OpenAI推出GPT-5.6，采用Luna/Terra/Sol三层模型分级，配备Max和Ultra等努力级别选项，配置复杂度显著提升。发布后ChatGPT Work与Codex的拆分导致用户体验挑战。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1604,7 +1604,7 @@
       "publishedAt": "2026-07-11T02:53:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI领域经历一周密集模型发布后，今日进入相对平静期，各主要实验室未公布重大新动态。"
+      "summary": "AI行业度过了相对平静的一天，此前一周各大厂商密集发布模型后，市场进入短暂的休整期。"
     },
     {
       "sourceId": "latent-space",
@@ -1614,7 +1614,7 @@
       "publishedAt": "2026-07-10T06:19:40.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI正式发布GPT-5.6系列模型，包含Sol、Terra、Luna三个层级，并宣布将Codex升级为ChatGPT超级应用，整合更多AI能力。"
+      "summary": "OpenAI发布重大更新，推出GPT 5.6系列（Sol/Terra/Luna三档），Codex升级为ChatGPT超级应用，标志着OpenAI产品线的重大扩展。"
     },
     {
       "sourceId": "latent-space",
@@ -1624,7 +1624,7 @@
       "publishedAt": "2026-07-09T06:05:41.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "SpaceXAI发布Grok 4.5模型，为收购Cursor后首个Opus级别产品延续快速迭代节奏，保持前沿AI竞争中的领先优势。"
+      "summary": "SpaceXAI发布Grok 4.5，这是收购Cursor后推出的首个Opus级别模型。SpaceXAI在发展速度上持续领先全球其他前沿实验室。"
     },
     {
       "sourceId": "latent-space",
@@ -1787,7 +1787,7 @@
       "publishedAt": "2026-07-13T18:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI公司Anthropic（当前估值近1万亿美元）发布最新研究成果，揭示大型语言模型内部工作机制。该技术让研究人员首次清晰观察到模型处理问题时的内部状态，涵盖从日常任务到复杂的概念推理。"
+      "summary": "Anthropic是目前全球估值最高的AI公司，估值近1万亿美元，以发布独特且引人深思的研究著称。该公司最新发布的发现涵盖范围从日常现象到令人不安的内容，具体细节有待进一步披露。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1797,7 +1797,7 @@
       "publishedAt": "2026-07-09T20:22:28.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "Anthropic开发新技术揭示Claude处理概念时的内部空间状态，呈现从简单到复杂的多元发现，部分结论引发学界关注与讨论。"
+      "summary": "Anthropic研发新技术，首次深入揭示大语言模型处理问题时的内部运作机制。研究发现涵盖从平凡到令人不安的多个层面，展现了AI认知过程的复杂性。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1880,7 +1880,7 @@
       "category": "tech",
       "meta": "@bingxu_ · 6.5K 粉丝 · 318.6K 阅 · 505 赞 · 88 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "翻译了GLM CEO唐杰在红书发布的内部信，谈大模型时代的\"大浪潮\"。从中文原文译出，分享其对AI产业趋势的判断。"
+      "summary": "一位博主发现并翻译了GLM CEO唐杰的内部信，标题为「浪潮已至」。信中可能涉及GLM大模型或中国AI发展的战略判断，但摘要仅反映翻译行为本身，具体内容需点击查看原文图片。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1891,7 +1891,7 @@
       "category": "tech",
       "meta": "@satyanadella · 7.0M 粉丝 · 146.5K 阅 · 1.1K 赞 · 162 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨智能时代企业如何保护核心IP。引用诺奖经济学家Kenneth Arrow的信息悖论：信息一旦分享就失去独占价值，企业面临悖论。"
+      "summary": "纳德拉引用诺贝尔经济学家阿罗的信息悖论，探讨智能时代企业如何保护核心IP：信息一旦分享即失去独占价值，但企业又必须分享才能创造收益——这对AI时代的竞争策略提出了根本挑战。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1902,7 +1902,7 @@
       "category": "tech",
       "meta": "@theo · 356.6K 粉丝 · 77.0K 阅 · 774 赞 · 27 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "自述在gpt-5.6-sol上烧了超20万美元token，称其为\"很棒的模型\"。但指出$200的Codex Pro订阅容易触发限制，OpenAI会慷慨重置。"
+      "summary": "开发者分享gpt-5.6-sol使用体验：已消耗超20万美元token，模型能力出色，但$200/月的Codex Pro订阅很容易触及限制。OpenAI会慷慨重置，但这反映出高强度使用场景下的成本问题。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1913,7 +1913,7 @@
       "category": "tech",
       "meta": "@gregisenberg · 682.7K 粉丝 · 62.2K 阅 · 578 赞 · 36 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "自称在硅谷经历三次平台转型，声称当前有两个数万亿美元市场同时开放，前所未有。分享用AI agents赚1000万美元的思路框架。"
+      "summary": "Gregisenberg提出用AI agents赚1000万美元的思路：两个价值数万亿美元的市场正同时开放，作者经历过3次平台转型（移动应用等），称从未见过如此机遇。暗示AI agent是新平台级别的机会。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1924,7 +1924,7 @@
       "category": "tech",
       "meta": "@HeyGen · 106.3K 粉丝 · 58.5K 阅 · 516 赞 · 56 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "30天挑战第7天：Motion Graphics教程。展示无旁白、10秒内的动态图形案例，用运动字体、数据动画、图表等替代文字解说。"
+      "summary": "HeyGen的30天教程第7天：演示motion graphics制作。视频通常10秒以内、无旁白，核心是动态排版、数据动画、图表可视化——motion本身就是信息传递的媒介。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1935,7 +1935,7 @@
       "category": "tech",
       "meta": "@OpenAIDevs · 373.8K 粉丝 · 58.5K 阅 · 532 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "GPT-5.6发布仅两天，社区已产出多个项目：GPT-5.6 Sol自主构建了体素版曼哈顿。展示模型在3D生成领域的初步应用案例。"
+      "summary": "GPT-5.6发布仅两天，社区已产出多个项目：有人用GPT-5.6 Sol自主构建了体素版的曼哈顿模型，展现出AI在3D生成和自主规划方面的能力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1946,17 +1946,46 @@
       "category": "tech",
       "meta": "@LexnLin · 17.6K 粉丝 · 32.3K 阅 · 503 赞 · 27 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "澄清一个常见误解：\"用AI设计\"不等于\"让AI替你提问\"。探讨设计师与AI协作的真正含义，以及如何在设计流程中有效集成AI工具。"
+      "summary": "澄清「用AI设计」的常见误解：AI设计不是简单提问出图，而是人机协作的工作流——人类负责定义问题框架和审美判断，AI负责执行和探索可能性，双方互补而非替代。"
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Oil Holds Gains After Trump Reinstates Blockade on Iranian Ships",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
-      "excerpt": "Oil steadied after its biggest advance since April, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo moving through the waterway.",
-      "publishedAt": "2026-07-13T22:01:33.000Z",
+      "title": "Venezuela Names Its US Ambassador as Head of Foreign Policy, Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/venezuela-names-us-ambassador-felix-plasencia-head-of-foreign-policy-trade",
+      "excerpt": "Venezuela’s Acting President Delcy Rodríguez merged the government’s foreign policy and international trade ministries into a single office headed by Caracas’s ambassador to the US, Félix Plasencia.",
+      "publishedAt": "2026-07-13T23:54:24.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "原油价格在4月以来最大单日涨幅后趋于稳定。美国总统特朗普重新对伊朗船只实施霍尔木兹海峡封锁，并要求所有过境货物缴纳费用，海湾地区能源运输前景蒙上阴影。"
+      "summary": "委内瑞拉代理总统德尔西·罗德里格斯将外交部与国际贸易部合并为单一机构，由驻美大使菲利克斯·普拉森西亚领导，以统筹外交与贸易政策。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Holds Decline on Renewed Hormuz Blockade and Hawkish Fed",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/gold-holds-decline-on-renewed-hormuz-blockade-and-hawkish-fed",
+      "excerpt": "Gold held a decline as escalating hostilities in the Strait of Hormuz and remarks by a US monetary policymaker raised the likelihood of interest-rate hikes to contain inflation.",
+      "publishedAt": "2026-07-13T23:49:07.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "霍尔木兹海峡局势升温叠加美联储官员鹰派讲话，金价维持跌势。交易员预计利率上调以遏制通胀的预期上升，抑制黄金避险需求。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Seidler Equity Is Looking to Sell Stake in 139-Year-Old Baseball Gear Maker Rawlings",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/seidler-is-looking-to-sell-stake-in-139-year-old-baseball-gear-maker-rawlings",
+      "excerpt": "The private equity owner of Rawlings Sporting Goods Co., one of the oldest makers of baseball apparel and equipment, is exploring the sale of its stake in the company in an effort to tap booming investor demand for sports-related investments.",
+      "publishedAt": "2026-07-13T23:31:03.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "私募股权公司Seidler Equity Partners正考虑出售拥有139年历史的棒球用品制造商罗林斯的股份，意图抓住体育投资热潮。交易细节尚未披露。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Extends Gains as Trump Reinstates Blockade on Iranian Ships",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
+      "excerpt": "Oil extended gains after surging more than 9% on Monday, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo moving through the vital waterway.",
+      "publishedAt": "2026-07-13T22:01:33.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -1969,23 +1998,51 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Oil Extends Advance, Asian Stocks Set to Decline: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap",
+      "excerpt": "Oil extended gains and Asian stocks were set to track Wall Street lower after the standoff between the US and Iran intensified, raising concerns that disruptions to energy supplies could accelerate inflation.",
+      "publishedAt": "2026-07-13T22:05:56.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Brazil’s Oncoclinicas Said to File for Out-of-Court Debt Rework",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/brazil-s-oncoclinicas-said-to-file-for-out-of-court-debt-rework",
+      "excerpt": "Oncoclinicas do Brasil Servicos Medicos SA is preparing to file for an out-of-court debt restructuring, which could come as soon as Monday night, according to people familiar with the matter.",
+      "publishedAt": "2026-07-13T23:11:09.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "巴西医疗服务公司Oncoclinicas do Brasil正准备申请庭外债务重组，最快可能于周一晚间提交申请，具体条款尚不清楚。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Shein’s Slowing Growth Risks Weighing on Hong Kong IPO Valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/shein-s-slowing-growth-risks-weighing-on-hong-kong-ipo-valuation",
+      "excerpt": "Shein has finally won long-awaited Chinese regulatory approval for its planned Hong Kong listing, but slowing business growth threatens to weigh on the valuation it can command in the initial public offering.",
+      "publishedAt": "2026-07-13T23:00:40.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "跨境电商Shein已获得中国监管部门对其赴港上市的批准，但业务增长放缓可能对其IPO定价造成压力，具体上市时间表尚未确定。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India’s Beaten-Down Large Caps Set to Rebound on Foreign Flows",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/india-s-beaten-down-large-caps-set-to-rebound-on-foreign-flows",
+      "excerpt": "India’s large-cap stocks are set to narrow their underperformance to smaller peers, supported by the return of foreign investors, an improving earnings outlook and attractive valuations, according to strategists.",
+      "publishedAt": "2026-07-13T23:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "策略师预计印度大型股将缩小相对小型股的跑输差距，得益于外资回流、盈利前景改善及估值具有吸引力。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Gold Miners Cadillac, Amapa Minerals Add to Canada IPO Rebound",
       "url": "https://www.bloomberg.com/news/articles/2026-07-13/gold-miners-cadillac-amapa-minerals-add-to-canada-ipo-rebound",
       "excerpt": "Cadillac Mines Corp. and Amapa Minerals Holdings Inc. filed for initial public offerings, in the latest sign that the pace of Canadian listings is starting to pick up.",
       "publishedAt": "2026-07-13T22:10:10.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Cadillac Mines Corp.与Amapa Minerals Holdings Inc.已向加拿大监管机构提交首次公开募股申请。分析师指出，这标志着加拿大IPO市场回暖趋势正在加速，能源与矿业板块融资活动趋于活跃。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Holds Gains as Iran Stokes Inflation Worries: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap",
-      "excerpt": "Oil held gains and Asian stocks were set to track Wall Street lower after the standoff between the US and Iran intensified, raising concerns that disruptions to energy supplies could accelerate inflation.",
-      "publishedAt": "2026-07-13T22:05:56.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "国际油价维持涨势，亚洲股市预计跟随美股下挫。美伊对峙升级引发市场对能源供应中断的担忧，交易员警告若霍尔木兹海峡受阻，全球通胀压力可能进一步加剧。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -1994,8 +2051,7 @@
       "excerpt": "Investors are preparing for a significant earnings week as five of the six largest US banks, including JPMorgan, Citi, Wells Fargo, Bank of America, and Goldman Sachs, are scheduled to report their quarterly results within a few hours of each other. Mike Mayo, Head of US Large-Cap Bank Research at W",
       "publishedAt": "2026-07-13T21:47:45.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "华尔街大型银行本周密集发布季度财报，摩根大通、花旗、富国银行、美国银行、高盛等五大行将先后公布业绩。富国银行分析师迈克·梅奥表示，花旗是他最看好的大型银行标的。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2004,8 +2060,7 @@
       "excerpt": "The Environmental Protection Agency on Monday proposed to approve Alabama’s application to take over issuing certain coal waste permits from the agency, part of a trend under President Donald Trump to transfer more authority from the federal government to states.",
       "publishedAt": "2026-07-13T21:41:57.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "美国环保署周一提议批准阿拉巴马州自行发放部分煤炭废物排放许可的申请。此举推翻了拜登时期的否决决定，反映特朗普政府将更多监管权力下放至各州的施政方向。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2023,8 +2078,7 @@
       "excerpt": "Russian billionaire Dmitry Rybolovlev’s family trust prevailed in its effort to remove the manager of a bankrupt $2.5 billion venture capital fund it backed.",
       "publishedAt": "2026-07-13T21:12:40.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "俄罗斯亿万富翁德米特里·雷波诺列夫的家族信托在诉讼中胜诉，成功移除其投资的25亿美元风险投资基金的管理人此前指定的管理团队，涉及的Biotech Fund因破产程序引发争议。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2042,8 +2096,7 @@
       "excerpt": "ホルムズ通航に20％の対価要求、近く利上げ必要に、ウォール街決算、独VWが5万人削減、円に弱気",
       "publishedAt": "2026-07-13T21:07:03.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "日本早间财经简报涵盖：特朗普对霍尔木兹海峡通行船只加征20%费用、市场预期央行近期加息、华尔街即将进入财报季、德国大众计划裁员5万人、机构看跌日元。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2168,60 +2221,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
       "excerpt": "Gold dropped the most in more than two weeks as renewed US-Iran hostilities in the Middle East and remarks from a monetary policymaker fueled expectations that the Federal Reserve may raise interest rates to contain inflation.",
       "publishedAt": "2026-07-12T23:13:35.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Seeing Pick Up In Active Funds This Year: Spence",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-13/seeing-pick-up-in-active-funds-this-year-spence-video",
-      "excerpt": "Travis Spence, global head of ETFs at JPMorgan Asset Management, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss growing momentum in actively managed ETFs. (Source: Bloomberg)",
-      "publishedAt": "2026-07-13T19:12:51.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Paramount-Warner Bros. Deal Challenged by California, States",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-13/paramount-warner-bros-deal-challenged-by-12-states-video",
-      "excerpt": "A group of 12 states sued Paramount Skydance Corp. Monday seeking to block its $110 billion bid to buy Warner Bros. Discovery Inc., alleging the blockbuster Hollywood deal would leave viewers with higher prices and fewer choices for movies and television. Jennifer Rie, Bloomberg Intelligence Senior ",
-      "publishedAt": "2026-07-13T19:10:52.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Test Your ETF Knowledge In Our IQ Test",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-13/test-your-etf-knowledge-in-our-iq-test-video",
-      "excerpt": "Bloomberg's Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
-      "publishedAt": "2026-07-13T18:49:57.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "SBI Funds IPO Anchor Book Draws Capital Group, BlackRock, Goldman, GIC",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/capital-group-blackrock-said-to-buy-into-sbi-funds-anchor-book",
-      "excerpt": "The Capital Group Inc., BlackRock Inc., Fidelity Investments and Goldman Sachs Asset Management are among key investors that participated in the anchor book of SBI Funds Management Ltd. ahead the start of bidding for its initial public offering.",
-      "publishedAt": "2026-07-13T03:00:35.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Mutual Fund Managers Missing 'Biblical' Opportunity: Smead",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-13/mutual-fund-managers-missing-biblical-opportunity-smead-video",
-      "excerpt": "Cole Smead, CEO of Smead Capital, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" Smead outlines the benefits of mutual funds and how they can match ETF tax efficiency. (Source: Bloomberg)",
-      "publishedAt": "2026-07-13T18:28:47.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "NJ Takes Step Toward New Nuclear Plants as Sherrill Signs Bill",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/new-jersey-takes-step-toward-new-nuclear-power-construction",
-      "excerpt": "New Jersey is initiating a process to develop new nuclear power plants to meet rising demand for electricity.",
-      "publishedAt": "2026-07-13T18:16:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2404,6 +2403,25 @@
       "publishedAt": "2025-01-25T10:30:00.000Z",
       "category": "finance",
       "source": "WSJ Markets"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US launches air strikes as Iran targets tankers with cruise missiles",
+      "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+      "excerpt": "Donald Trump said Washington would hit the Islamic republic ‘hard’ on Monday and Tuesday nights",
+      "publishedAt": "2026-07-13T23:59:07.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "美国对伊朗发动空袭，同时伊朗用巡航导弹袭击油轮。特朗普表示华盛顿将在周一和周二夜间对伊斯兰共和国进行\"猛烈\"打击。"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: Investors cut back bets on Asia’s chipmakers",
+      "url": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275",
+      "excerpt": "Also in today’s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser’s ruthless remake of Citigroup",
+      "publishedAt": "2026-07-13T21:37:31.000Z",
+      "category": "finance",
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2613,24 +2631,6 @@
       "source": "Financial Times"
     },
     {
-      "sourceId": "ft-companies",
-      "title": "Wall Street set for biggest haul from investment banking fees in 4 years",
-      "url": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
-      "excerpt": "Top US banks benefit from revival of large deals as AI optimism and strong consumer fuel market rally",
-      "publishedAt": "2026-07-13T04:00:20.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
-      "sourceId": "ft-companies",
-      "title": "Deutsche Bank and UniCredit sue Linde over Russia sanctions losses",
-      "url": "https://www.ft.com/content/78dc19d0-d58a-41bd-b40e-6aeb04e26409",
-      "excerpt": "Test case will determine whether lenders can recover hundreds of millions of euros seized by courts",
-      "publishedAt": "2026-07-13T04:00:20.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
       "sourceId": "bbc-business",
       "title": "The secretive crypto firm backed by Farage's biggest donor",
       "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
@@ -2638,7 +2638,7 @@
       "publishedAt": "2026-07-13T23:00:59.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "稳定币发行商Tether是加密货币领域巨头。该公司运作向来神秘，背景涉及英国脱欧派人物奈杰尔·法拉奇的最大捐款人。法拉奇主张英国应积极拥抱加密货币产业。"
+      "summary": "加密货币巨头Tether获得英国脱欧派人物奈杰尔·法拉奇最大金主的支持。该公司为加密货币行业重要参与者，法拉奇主张英国应拥抱加密产业。"
     },
     {
       "sourceId": "bbc-business",
@@ -2648,17 +2648,17 @@
       "publishedAt": "2026-07-13T23:02:11.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "年末教师礼金问题引发家长讨论。联合送礼虽可缓解竞争性送礼压力，但金额多少仍易引发摩擦。有家长表示不想显得小气，实际上对共同出资数额感到为难。"
+      "summary": "年末教师礼金引发家长社交压力。文章探讨集体凑礼是否比个人竞争性送礼更能缓解矛盾，以及如何设定合理的礼金金额。"
     },
     {
       "sourceId": "bbc-business",
-      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
+      "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
       "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-      "publishedAt": "2026-07-13T22:52:11.000Z",
+      "excerpt": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
+      "publishedAt": "2026-07-13T23:17:32.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "美国12个州联合提起诉讼，要求阻止派拉蒙与华纳兄弟之间价值1100亿美元的合并交易。若成功，这将成为好莱坞史上最大规模的媒体整合案，反垄断担忧是核心争议。"
+      "summary": "加州联合其他11个州起诉阻止派拉蒙与华纳兄弟的合并案。两家电影公司总部均位于加州，该州担忧合并可能损害市场竞争。"
     },
     {
       "sourceId": "bbc-business",
@@ -2671,13 +2671,13 @@
     },
     {
       "sourceId": "bbc-business",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
       "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The US military later said it had started the third consecutive night of strikes on Iran.",
-      "publishedAt": "2026-07-13T22:47:52.000Z",
+      "excerpt": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+      "publishedAt": "2026-07-13T23:42:24.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "美国总统特朗普宣布恢复对伊朗港口的封锁，并对通行霍尔木兹海峡的货物征收20%费用。美国军方随后表示已连续第三晚对伊朗目标实施军事打击，地区局势持续紧张。"
+      "summary": "阿联酋谴责伊朗对油轮发动\"公然\"袭击。美国连续第三晚对伊朗实施空袭，特朗普宣布对霍尔木兹海峡实施20%的新封锁费。"
     },
     {
       "sourceId": "bbc-business",
@@ -2687,7 +2687,7 @@
       "publishedAt": "2026-07-13T23:04:58.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "食品追踪应用近年愈发流行，但此类工具是否真能有效改善饮食结构尚存争议。支持者认为数据化管理有助自律，反对者则指出过度依赖数字可能引发焦虑，且追踪精度未必可靠。"
+      "summary": "食物追踪应用日益流行，但研究表明其对改善饮食健康的效果存在争议，部分用户可能因过度关注数据而产生心理压力。"
     },
     {
       "sourceId": "bbc-business",
@@ -3177,13 +3177,13 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
       "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The US military later said it had started the third consecutive night of strikes on Iran.",
-      "publishedAt": "2026-07-13T22:47:52.000Z",
+      "excerpt": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+      "publishedAt": "2026-07-13T23:42:24.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "特朗普宣布恢复对伊朗港口封锁，并扬言对通过霍尔木兹海峡的货物收取20%费用。美国军方随后表示，已连续第三晚对伊朗发动夜间打击。"
+      "summary": "阿联酋谴责伊朗\"公然\"袭击霍尔木兹海峡油轮，美国连续第三晚对伊朗发动打击。特朗普宣布恢复对伊朗港口的封锁，并对过境船只收取20%费用。"
     },
     {
       "sourceId": "bbc-world",
@@ -3220,7 +3220,7 @@
       "publishedAt": "2026-07-13T22:38:34.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "以《侏罗纪公园》中饰演科学家成名的演员萨姆·尼尔去世，享年78岁。朋友、政界人士和同行影星纷纷缅怀这位「英雄、传奇、甜心」。"
+      "summary": "《侏罗纪公园》主演萨姆·尼尔（Sam Neill）去世，享年78岁。友人、政界人士和影星纷纷悼念这位\"英雄、传奇、可人\"的演员。"
     },
     {
       "sourceId": "bbc-world",
@@ -3239,7 +3239,7 @@
       "publishedAt": "2026-07-13T21:37:02.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "南卡罗来纳州州长选择已故共和党参议员林赛·格雷厄姆的小妹妹接任其席位，完成剩余任期至2027年初。"
+      "summary": "南卡罗来纳州州长选择联邦参议员林赛·格雷厄姆的小妹妹接任其席位，在格雷厄姆周六去世后完成继任。"
     },
     {
       "sourceId": "bbc-world",
@@ -3483,7 +3483,7 @@
       "publishedAt": "2026-07-13T22:06:01.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "墨西哥总统辛鲍姆宣布，将就超过10名墨西哥移民在移民羁押中死亡事件向美国提起刑事诉讼，其中包括在休斯顿被ICE特工杀害的洛伦佐·萨尔加多·阿劳霍。"
+      "summary": "墨西哥总统谢恩鲍姆表示，墨民众对休斯顿移民执法致死事件\"感到愤怒\"，将就十余名墨西哥移民在美死亡事件向美国提起刑事诉讼。"
     },
     {
       "sourceId": "guardian-world",
@@ -3571,10 +3571,10 @@
       "title": "Australia news live: Four more charged over alleged murder of Chris Baghsarian; Labor says Australians may ‘pay the price’ of renewed US-Iran conflict",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
       "excerpt": "NSW police say 11 men have now been charged over the alleged crimes, including the ‘alleged coordinator’ Get our breaking news email, free app or daily news podcast George Miller remembers Sam Neill as ‘comprehensively an amazing person’ Acclaimed director George Miller shared memories of the late S",
-      "publishedAt": "2026-07-13T23:00:32.000Z",
+      "publishedAt": "2026-07-13T23:40:51.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚新南威尔士州警方就Chris Baghsarian谋杀案新增4人起诉，目前共11人被起诉，包括据称协调人。工党警告称，澳人可能为美国与伊朗冲突升级付出代价。"
+      "summary": "新南威尔士州警方称，Chris Baghsarian谋杀案已起诉11人，包括\"疑似协调人\"。工党警告澳人可能为美伊冲突\"付出代价\"。"
     },
     {
       "sourceId": "guardian-world",
@@ -3584,7 +3584,7 @@
       "publishedAt": "2026-07-13T22:23:09.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "北领地警方重新开放证据箱，试图通过新照片唤醒记忆，推动对英国背包客彼得·法尔科尼奥被害案的调查。法尔科尼奥2001年在澳大利亚遇害，女友乔安妮·利斯遭绑架。"
+      "summary": "北领地警方重新开放证据箱，希望新发布的照片能唤起记忆，协助调查2001年英国背包客彼得·法尔科尼奥遇害案。"
     },
     {
       "sourceId": "guardian-world",
@@ -3663,10 +3663,10 @@
       "title": "Middle East crisis live: US launches new wave of strikes; UAE says two tankers in strait of Hormuz hit by Iranian missiles",
       "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
       "excerpt": "US military says latest strikes will ‘continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping’ in strait of Hormuz Trump renews Iran blockade and again threatens to take control of strait of Hormuz Bahrain’s military has accused",
-      "publishedAt": "2026-07-13T23:02:52.000Z",
+      "publishedAt": "2026-07-13T23:39:36.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "美国军方宣布对伊朗发动新一轮打击，誓言继续对伊朗武装力量施加沉重代价。胡塞武装导弹击中霍尔木兹海峡两艘油轮。特朗普恢复对伊朗港口封锁，并再次威胁将控制霍尔木兹海峡。"
+      "summary": "美国发动新一轮打击，UAE称霍尔木兹海峡两艘油轮被伊朗导弹击中。美国军方表示将\"继续对伊朗军队施加沉重代价\"，特朗普再次威胁控制霍尔木兹海峡。"
     },
     {
       "sourceId": "guardian-world",
@@ -3676,7 +3676,7 @@
       "publishedAt": "2026-07-13T22:43:12.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "美国连续第三晚对伊朗发动空袭。特朗普宣布华盛顿将恢复对伊朗港口封锁，并对通过霍尔木兹海峡的船只收取通行费，被指政策出现逆转。"
+      "summary": "美国对伊朗发动连续第三晚打击。特朗普称将对通行霍尔木兹海峡的船只收取费用，此举被视为政策逆转。美国恢复对伊朗的封锁。"
     },
     {
       "sourceId": "guardian-world",
@@ -3722,7 +3722,7 @@
       "publishedAt": "2026-07-13T23:00:15.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美军已对伊朗发动新打击。特朗普此前威胁进行「非常强硬」打击，并命令恢复对伊朗港口封锁，定于周二生效，同时宣布将对通过霍尔木兹海峡的货物收取20%费用。"
+      "summary": "特朗普威胁对伊朗实施\"非常强硬\"打击，下令周二起恢复对伊朗港口的封锁，并对通过霍尔木兹海峡的货物收取20%费用。"
     },
     {
       "sourceId": "nyt-world",
@@ -3849,7 +3849,7 @@
       "publishedAt": "2026-07-13T21:47:55.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "联合国表示，武装人员的一次突袭导致世界粮食计划署暂停在加沙部分地区的运作。联合国指控哈马斯干扰援助分发，哈马斯方面对此予以否认。"
+      "summary": "联合国称武装人员袭击导致世界粮食计划署暂停在加沙部分地区运营，指控哈马斯干扰援助分发。哈马斯对此予以否认。"
     },
     {
       "sourceId": "nyt-world",
@@ -3859,7 +3859,7 @@
       "publishedAt": "2026-07-13T22:11:17.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美伊双方经历数天攻击后，已有效回到6月美伊达成停火协议前的公开冲突状态。特朗普重新实施海军封锁，德黑兰与华盛顿冲突显著升级。"
+      "summary": "美伊双方在多日攻击后，实际上已回到6月停火前的公开冲突状态。特朗普重新实施对伊朗的海军封锁。"
     },
     {
       "sourceId": "nyt-world",
@@ -3869,7 +3869,7 @@
       "publishedAt": "2026-07-13T21:27:44.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "匈牙利议会投票罢免亲欧尔班人士担任的总统一职。总理彼得·马扎尔为这一罕见举措辩护，但该决定受到人权组织和欧尔班盟友的批评。"
+      "summary": "匈牙利议会投票通过解除亲欧尔班人士的总统职务。总理马泰·马扎尔为此举辩护，但受到人权组织和欧尔班盟友批评。"
     },
     {
       "sourceId": "nyt-world",
@@ -3978,7 +3978,7 @@
       "publishedAt": "2026-07-13T21:47:31.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "据报道，以色列经过多年努力将伊朗前总统内贾德培养为情报资产，战争初期曾试图将他带至以色列在伊境内的摩萨德安全屋，但计划最终失败。"
+      "summary": "以色列秘密行动多年培养伊朗前总统艾哈迈迪-内贾德为情报资产，战争初期曾计划将其带至以色列摩萨德安全屋，但计划最终失败。"
     },
     {
       "sourceId": "npr-world",
@@ -4342,13 +4342,22 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Norway ‘rows’ at the royal palace to welcome back World Cup heroes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_norway-rows-at-the-royal-palace-world-cup-heroes-130726?traffic_source=rss",
+      "excerpt": "More than 100,000 people turned out to celebrate Norway's national football team after their World Cup exit.",
+      "publishedAt": "2026-07-13T23:25:49.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
       "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
       "excerpt": "South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator's term until early 2027.",
       "publishedAt": "2026-07-13T22:33:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "南卡罗来纳州州长选择达林·格雷厄姆·诺多内接替已故共和党参议员林赛·格雷厄姆的职位，任期至2027年初。格雷厄姆于上周六去世，遗体告别仪式在哥伦比亚举行。"
+      "summary": "南卡罗来纳州州长选择达琳·格雷厄姆·诺多内（Darline Graham Nordone）接替已故联邦参议员林赛·格雷厄姆的席位，任期至2027年初，她获得特朗普支持。"
     },
     {
       "sourceId": "aljazeera",
@@ -4358,7 +4367,7 @@
       "publishedAt": "2026-07-13T22:31:36.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "至少9起死亡事件与特朗普移民执法行动相关。最新一起发生在缅因州比德福德，涉及一起致命枪击事件。"
+      "summary": "美国移民执法行动已造成至少9人死亡，缅因州比德福德市枪击案为最新一起。特朗普移民打击行动致多人死亡。"
     },
     {
       "sourceId": "aljazeera",
@@ -4382,7 +4391,7 @@
       "sourceId": "aljazeera",
       "title": "US, Iran exchange attacks around Strait of Hormuz",
       "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
-      "excerpt": "Washington and Tehran both claim to be in control of the Strait of Hormuz as fighting escalates.",
+      "excerpt": "Washington and Tehran both claim to be in control of the strategic waterway as fighting escalates.",
       "publishedAt": "2026-07-13T21:19:28.000Z",
       "category": "politics",
       "source": "Al Jazeera"
@@ -4555,15 +4564,6 @@
       "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament?traffic_source=rss",
       "excerpt": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
       "publishedAt": "2026-07-13T18:33:41.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Trump administration vows to ‘disable’ International Criminal Court",
-      "url": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court?traffic_source=rss",
-      "excerpt": "US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.",
-      "publishedAt": "2026-07-13T18:32:24.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
