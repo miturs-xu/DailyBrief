@@ -1,151 +1,148 @@
 {
-  "hero_headline": "GPT-6 Astra发布、Anthropic筹备2万亿美元IPO",
-  "daily_overview": "今日科技领域迎来多重重磅发布：OpenAI正式推出GPT-6 Astra，被称为公司史上最大规模发布，单token价格虽为此前2.5倍但按任务计费更低，同日Meta的Muse Spark 1.3在多个基准测试中追平GPT-5.6-Sol，标志着Meta Superintelligence成为新晋前沿实验室；DeepMind则发布WeatherNext 3，全球天气预报精度大幅提升。AI模型军备竞赛进入新阶段的同时，Claude开发商Anthropic正紧锣密鼓筹备史上最大AI IPO，摩根士丹利和高盛将分别担任主承销商，估值直逼2万亿美元。财经市场方面，美伊局势持续推高能源价格，对冲基金做多原油期货升至5月以来高点，英国柴油价格创历史新高，美国柴油价格同样刷新纪录，德国极右翼政党AfD在东部州选举中接近首次执政，时政不确定性同步上升。",
+  "hero_headline": "OpenAI 发布 GPT-6 Astra 刷新性能纪录，伊朗局势推涨能源价格冲击全球市场",
+  "daily_overview": "科技领域今日迎来密集发布潮：OpenAI 正式推出 GPT-6 Astra，被其合作伙伴称为公司史上最大规模的 LLM 发布，定价虽提升 2.5 倍但单任务成本更低；DeepMind 同步推出 WeatherNext 3 天气预报模型，Meta 的 Muse Spark 1.3 则在测试中匹配 GPT-5.6-Sol 水平，AI 军备竞赛持续升温。财经层面，伊朗冲突持续推高能源价格，英国汽油触及伊朗战争以来最高点，美国柴油创历史新高，对冲基金将原油看涨押注加至五月高位；Anthropic 接近递交 2 万亿美元 IPO 申请，成为华尔街最受瞩目上市案。时政方面，特朗普警告可能「很快」攻击伊朗核设施，德国极右翼 AfD 在东部州选举寻求二战后首次掌权，上合组织峰会亦于本周举行。",
   "tech_briefs": [
     {
-      "title": "OpenAI发布GPT-6 Astra：史上最大规模模型发布",
+      "title": "OpenAI 发布 GPT-6 Astra，性能大幅提升但 token 单价上涨 2.5 倍",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "source": "Latent Space",
-      "summary": "GPT-6 Astra具备全新SOTA计算机使用与代码能力，每token成本为此前2.5倍，但按任务计费更低、监控难度也更高，被视为OpenAI frontier模型类的成功发布。",
+      "summary": "GPT-6 Astra 为 OpenAI 史上最大规模 LLM 发布，在计算机使用和编程任务上达到新 SOTA；单 token 定价提高 2.5 倍，但单任务总成本反而更低，且可监控性有所下降，多家媒体报道。",
       "importance": 10
     },
     {
-      "title": "Meta Muse Spark 1.3追平GPT-5.6-Sol，跻身前沿模型",
-      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "source": "Latent Space",
-      "summary": "Meta Superintelligence实验室发布的Muse Spark 1.3在多个基准测试中与GPT-5.6-Sol持平，被评价为Meta的史诗级回归，成为最新前沿实验室。",
-      "importance": 9
-    },
-    {
-      "title": "Anthropic筹备2万亿美元IPO，摩根士丹利高盛争承销",
-      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "Anthropic最快于下周递交IPO申请，摩根士丹利和高盛将分别担任主要角色，估值或达2万亿美元，有望成为华尔街史上最大规模AI公司上市。",
-      "importance": 9
-    },
-    {
-      "title": "DeepMind发布WeatherNext 3，全球天气预报精度大幅提升",
+      "title": "DeepMind 发布 WeatherNext 3，号称最先进全球天气预报 AI 模型",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "DeepMind Blog",
-      "summary": "WeatherNext 3是DeepMind迄今最先进、最精确的全球天气预报AI模型，在多个气象指标上实现突破，可为农业、能源和防灾提供更可靠预测。",
+      "summary": "Google DeepMind 推出 WeatherNext 3，据称是其迄今为止最先进、最精准的全球天气预报模型，可处理海量气象数据并提供更准确的预测结果。",
       "importance": 8
     },
     {
-      "title": "乌克兰战场无人机数据催生新型数据交易市场",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Tech Review AI",
-      "summary": "乌克兰战场的大量无人机残骸正在催生一个新兴的\"狂野西部\"数据市场，战场图像和情报数据成为各方争相购买的商品，引发数据安全与伦理争议。",
+      "title": "Meta Muse Spark 1.3 测试匹配 GPT-5.6-Sol，被视为新前沿实验室",
+      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+      "source": "Latent Space",
+      "summary": "Meta 旗下 AI 实验室 Superintelligence 的 Muse Spark 1.3 在多项测试中匹配 GPT-5.6-Sol，被业界视为 Meta 的史诗级回归，训练成本也出现超过 90% 的折扣。",
+      "importance": 9
+    },
+    {
+      "title": "Anthropic 接近敲定摩根士丹利和高盛主导 2 万亿美元 IPO",
+      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "AI 巨头 Anthropic 即将在下周披露华尔街上市文件，IPO 估值预计达 2 万亿美元，摩根士丹利和高盛将分别担任主承销商角色，为近年最受瞩目的上市案之一。",
+      "importance": 9
+    },
+    {
+      "title": "OpenAI 宣布 10 亿美元网络安全计划，覆盖政府与关键基础设施",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI News",
+      "summary": "OpenAI 推出「Daybreak for Frontline Defenders」计划，承诺投入 10 亿美元扩展前沿网络 AI 的访问权限、培训和支持，服务对象为政府机构及关键基础设施运营方。",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "对冲基金做多原油升至5月来高点，美伊冲突持续推高油价",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/hedge-funds-hike-bullish-oil-bets-to-may-high-as-iran-war-flares",
-      "source": "Bloomberg Markets",
-      "summary": "对冲基金对布伦特原油的多头押注升至5月以来最高水平，美伊冲突加剧引发对霍尔木兹海峡能源供应持续中断的担忧。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "美国柴油价格创历史新高，英国汽油价格创伊朗战争以来最高",
-      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "title": "伊朗战争持续升级，英国汽油价格触及开战以来最高点",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "自2月底伊朗冲突爆发以来，燃油价格持续飙升，美国柴油价格已创历史新高，英国无铅汽油价格升至伊朗战争以来最高水平。（多家报道）",
+      "summary": "英国无铅汽油价格达到每升 163 便士，为伊朗冲突自二月底爆发以来的最高水平，油价持续高企导致驾车成本显著上升。",
       "importance": 8
     },
     {
-      "title": "Bloom Energy、Illumina、Everpure加入标普500指数",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
+      "title": "美国柴油价格创历史新高，能源危机加剧通胀压力",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "美国柴油价格创下历史最高纪录，自伊朗冲突开始以来一路攀升，与批发油价涨幅同步，给物流及农业等行业带来更大成本压力，多家媒体报道。",
+      "importance": 8
+    },
+    {
+      "title": "对冲基金将原油看涨押注加至五月高位，伊朗局势引发供应担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/hedge-funds-hike-bullish-oil-bets-to-may-high-as-iran-war-flares",
       "source": "Bloomberg Markets",
-      "summary": "标普道琼斯指数宣布，Bloom Energy、Illumina和Everpure将于本月加入标普500指数，这是最新一次季度成分股调整。",
+      "summary": "对冲基金对布伦特原油的多头押注升至五月以来最高水平，美伊之间的新一轮冲突加剧了市场对霍尔木兹海峡能源运输长期中断的担忧。",
       "importance": 7
     },
     {
-      "title": "经济学家分析：AI就业繁荣或推迟\"就业末日\"",
+      "title": "《经济学人》分析：AI 就业繁荣，岗位替代 apocalypse 被推迟",
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "source": "The Economist Finance",
-      "summary": "经济学人分析指出，AI技术对就业的初步影响好于预期，AI驱动的就业增长正在部分抵消自动化带来的失业冲击，初期效果偏正面。（多家报道）",
+      "summary": "《经济学人》分析指出，AI 技术对就业市场的初步影响好于预期，一波 AI 相关岗位繁荣正在形成，之前的失业末日预言被暂时搁置。",
       "importance": 7
     },
     {
-      "title": "标普下调塞内加尔评级，主权债务违约风险显著上升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/s-p-downgrades-senegal-after-government-unveils-debt-rework",
-      "source": "Bloomberg Markets",
-      "summary": "标普全球评级将塞内加尔信用评级进一步下调至垃圾级，表示该国进行债务重组或拖欠外币商业债务的可能性极高。",
-      "importance": 7
+      "title": "法国检察院没收麦肯锡 6500 万欧元涉税务欺诈调查",
+      "url": "https://www.ft.com/content/f8d6ef71-5c26-49c6-8b9b-dbe3eef85c2f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "法国检察院在针对该咨询公司税务做法的调查期间，暂扣了麦肯锡约 6500 万欧元资金，最终罚款金额仍有待调查结束确定。",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "德国极右翼AfD接近首次执政东部州",
+      "title": "特朗普警告可能很快攻击伊朗核设施，伊朗战争局势升温",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "美国总统特朗普重申警告，称可能「很快」攻击伊朗的 Pickaxe Mountain 核设施，此前双方已发生多轮交火，中东局势持续紧张，多家媒体报道。",
+      "importance": 10
+    },
+    {
+      "title": "德国极右翼 AfD 冲击东部州选举，寻求二战后首次掌权",
       "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "德国极右翼AfD在萨克森-安哈尔特州选举中接近赢得绝对多数，若成功将是二战后极右翼政党首次执掌德国州级政权。（多家报道）",
+      "summary": "德国极右翼选择党 AfD 正在萨克森-安哈尔特州选举中寻求绝对多数，如成功将成为二战后首个掌握州级权力的极右翼政党，引发欧洲政坛高度关注。",
       "importance": 9
     },
     {
-      "title": "联合国通过新世界地图决议，非洲版图获真实呈现",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "source": "The Guardian",
-      "summary": "联合国大会投票通过由多哥发起的决议，正式推动以等面积投影地图取代传统墨卡托投影，使非洲大陆获得其真实的相对面积，美国是唯一反对票。",
-      "importance": 8
-    },
-    {
-      "title": "特朗普暗示以福克兰群岛换取对阿根廷米莱的支持",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "source": "The Guardian",
-      "summary": "特朗普暗示可能支持阿根廷盟友米莱对福克兰群岛的主权声索，作为对英国的\"报复\"，引发英美关系紧张。",
+      "title": "联合国通过新版世界地图，非洲面积获更准确呈现",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+      "source": "NPR World",
+      "summary": "联合国投票支持一张更准确反映非洲真实相对面积的新版世界地图，美国是唯一投反对票的国家，该议题涉及殖民时代地图偏见的历史讨论。",
       "importance": 7
     }
   ],
-  "editor_note": "今日AI领域密集发布，GPT-6 Astra与Muse Spark 1.3同日竞技，Anthropic IPO箭在弦上，模型竞争格局正在快速重塑；能源市场受地缘政治驱动持续承压，国内用户在选型时需关注综合成本而非单纯token价格。",
+  "editor_note": "本周 AI 领域密集发布显示技术迭代仍在加速，但能源价格持续攀升正从成本端施压实体经济，中东局势走向将成为下周最大变量。",
   "keywords": [
     "GPT-6 Astra",
+    "伊朗战争",
+    "WeatherNext 3",
     "Anthropic IPO",
-    "Muse Spark 1.3",
-    "美伊冲突",
-    "标普500",
-    "AfD",
-    "联合国地图",
-    "AI模型竞争",
-    "原油期货",
-    "能源价格"
+    "德国 AfD",
+    "能源价格",
+    "AI 就业",
+    "Muse Spark"
   ],
   "trading": {
-    "market_overview": "美股市场：SPY 接近 52 周高（距高 -1.18%），SMA20=769.21 上穿 SMA50=756.14，多头排列完好，RSI 58.8 处于健康区间；NVDA 今日强势上涨 +2.65%，MACD 金叉形成；QQQ 动能领先（1 日 +1.37%），科技板块短期趋势偏多。加密市场：总市值 2.70T USD，24 小时下跌 -4.05%，BTC 主导率 59.2%；BTC-USD MACD 死叉但 SMA20=75,611 > SMA50=68,776 > SMA200=69,622 仍支撑；ETH-USD 均线金叉后保持偏上行；贪婪指数 73 提示短期贪婪情绪。中概股：BABA、PDD、JD 均呈空头排列，技术面承压；腾讯距 52 周高低仅 +7.74%，整体弱势。大宗/外汇：黄金横盘（RSI 55.7）；WTI 原油 MACD 金叉确认，5 日涨幅 +9.38% 动量强劲；USDCNY RSI 超卖至 17.2；10Y 美债收益率 4.78% 接近 52 周高。",
+    "market_overview": "当前市场呈现分化格局。美股方面，SPY 与 QQQ 均维持多头排列，SPY 已接近 52 周高点（偏离 -1.18%），QQQ 则有约 4% 空间；MSFT、NVDA 出现金叉，技术面偏强。加密市场方面，恐慌贪婪指数升至 73（贪婪）的高位，但 BTC 单日下挫 -1.99%，MACD 形成死叉，ETH 与 SOL 同现 MACD 死叉且 RSI 均超 62，动能有所减弱。中概股仍受压，BABA、PDD、0700.HK 均呈空头排列，JD 虽有金叉但 RSI 仅 33.1（偏弱）。商品外汇端，原油（CL=F）周涨 9.38%，MACD 金叉，多头动能强劲；黄金 MACD 死叉呈中性；10Y 美债收益率接近 52 周高（4.78%），MACD 金叉；美元/人民币 RSI 仅 17.2 处于超卖。",
     "watchlist": [
       {
         "symbol": "NVDA",
         "display_name": "Nvidia",
         "stance": "偏上行",
-        "rationale": "价格 230.36，MACD 3.2546 上穿信号线 2.7848 形成金叉，SMA20=219.76 > SMA50=209.87 > SMA200=196.46 多头排列完整，距 52 周高仅 -2.61%，RSI 59.2 处于健康偏强区间，1 日涨幅 +2.65% 伴随量能释放，短期技术动能向上。"
+        "rationale": "NVDA 现价 230.36 美元，RSI 14 为 59.2（处于中性偏强区间），MACD 值为 3.2546 高于信号线 2.7848 形成金叉，价格已处于多头排列（SMA20>SMA50>SMA200），且距离 52 周高点仅偏离 -2.61%，技术面多头信号清晰。1 日涨幅 +2.65%，5 日涨幅 +1.04%，动能持续。整体 setup 偏上行，需留意 RSI 未进入超买区域前仍有空间。"
       },
       {
-        "symbol": "META",
-        "display_name": "Meta",
-        "stance": "偏上行",
-        "rationale": "价格 616.77，1 日涨幅 4.03%，5 日涨幅 8% 动量领先；RSI 60.7 未进入超买区域；SMA20=575.65 < SMA50=594.01 < SMA200=622.22 仍为多头排列，MACD 虽为负值但 histogram 收敛中；距 52 周高 -22.01% 仍存上行空间，技术面偏强。"
-      },
-      {
-        "symbol": "USDCNY=X",
-        "display_name": "美元 / 人民币",
-        "stance": "偏下行",
-        "rationale": "价格 6.70，RSI 14 日读数 17.2 进入超卖区域（低于 20），MACD -0.0117 < 信号线 -0.0111 维持死叉，均线空头排列（SMA20=6.73 > SMA50=6.76 > SMA200=6.86），距 52 周低仅 -0.03%，技术性反弹概率较高，短期方向偏下行动能衰竭。"
+        "symbol": "MSFT",
+        "display_name": "Microsoft",
+        "stance": "中性",
+        "rationale": "MSFT 现价 499.7 美元，RSI 14 达 66.1 已接近超买边界，MACD 值为 16.3447 但低于信号线 18.2359（MACD 柱状图为负），已形成金叉（ SMA50 向上穿越 SMA200），价格高于三条均线呈多头排列。距离 52 周高点仍有 -9.76% 空间，1 日涨幅 +0.58%，5 日小跌 -1.06%。技术面整体偏强但 RSI 偏高暗示短期动能有所透支，建议中性看待。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "价格 91.22，MACD 2.2438 金叉信号线 1.5142，SMA20=85.42 > SMA50=80.95 > SMA200=78.81 多头排列，5 日涨幅 +9.38% 动量强劲，RSI 64.7 接近但未超买，距 52 周高 -23.65% 仍具空间，能源商品技术面强势。"
+        "rationale": "WTI 原油现价 91.22 美元，RSI 14 为 64.7 处于偏强区域，MACD 值为 2.2438 高于信号线 1.5142 形成金叉，价格高于 SMA20（85.42）、SMA50（80.95）、SMA200（78.81）呈标准多头排列。5 日涨幅高达 +9.38%，周线动能强劲。当前偏离 52 周高点 -23.65%，中期仍有空间，技术面偏上行。"
       },
       {
         "symbol": "BTC-USD",
         "display_name": "Bitcoin",
         "stance": "中性",
-        "rationale": "价格 79,675 美元，MACD 3,416.95 < 信号线 3,466.83 形成死叉，RSI 66.5 接近超买边界，短期动能减弱；但 SMA20=75,611 > SMA50=68,776 > SMA200=69,622 均线仍多头排列，5 日 +2.58% 显示承接有力，方向信号分歧，需观察 MACD 是否再度收敛。"
+        "rationale": "BTC 现价 79658.42 美元，RSI 14 为 66.5 处于偏强区域，但 MACD 值为 3415.62 低于信号线 3466.57 形成死叉，MACD 柱状图为负约 -50.99，价格虽高于 SMA20（75610.97）、SMA50（68775.99）、SMA200（69622.28）但 MACD 动能已转负。加密恐慌贪婪指数报 73（贪婪）暗示市场情绪高涨，1 日跌幅 -1.99%，5 日涨幅 +2.56%。RSI 与 MACD 出现背离，技术面中性偏谨慎。"
+      },
+      {
+        "symbol": "0700.HK",
+        "display_name": "腾讯控股 (0700.HK)",
+        "stance": "偏下行",
+        "rationale": "腾讯现价 442.8 港元，RSI 14 为 45.7 接近中性偏低，SMA20（448.9）与 SMA50（455.21）均高于现价且高于 SMA200（516.89）呈空头排列，MACD 值为 -5.23 低于信号线 -4.14，柱状图为负约 -1.09。1 日涨幅 +2.26% 但 5 日跌幅 -2.72%，整体趋势偏弱。偏离 52 周高点 -35.17%，技术面呈下行倾向。"
       }
     ],
-    "risk_caveat": "本报告基于历史行情数据的技术指标计算，过去走势不代表未来表现。所有技术信号仅供指标解读参考，不构成投资建议或买卖指导。市场受地缘政治、宏观政策、基本面等多重因素影响，技术分析存在滞后性和局限性，投资者应独立判断并承担风险。",
+    "risk_caveat": "本报告基于技术指标（RSI、MACD、SMA、趋势等）进行客观描述，不构成投资建议。过往走势不代表未来表现，市场环境可能迅速变化导致指标失效。本报告仅供技术指标解读参考，请结合基本面、流动性及个人风险承受能力独立判断。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -377,18 +374,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 79675.11,
-        "pct1Day": -1.9645600605145752,
-        "pct5Day": 2.5847849745042204,
-        "pct52WeekHigh": -36.8650328804553,
-        "pct52WeekLow": 37.97089570529879,
-        "sma20": 75611.80546875,
-        "sma50": 68776.327265625,
-        "sma200": 69622.3606640625,
-        "rsi14": 66.54993928149457,
-        "macd": 3416.952506193047,
-        "macdSignal": 3466.8339468545755,
-        "macdHistogram": -49.88144066152836,
+        "currentPrice": 79658.42,
+        "pct1Day": -1.985096103609969,
+        "pct5Day": 2.5632959541410894,
+        "pct52WeekHigh": -36.87825812233104,
+        "pct52WeekLow": 37.94199415437126,
+        "sma20": 75610.97109375,
+        "sma50": 68775.993515625,
+        "sma200": 69622.2772265625,
+        "rsi14": 66.48847288547502,
+        "macd": 3415.621309611859,
+        "macdSignal": 3466.567707538338,
+        "macdHistogram": -50.94639792647877,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -405,18 +402,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2456.18,
-        "pct1Day": -2.0669985251419507,
-        "pct5Day": 1.581565279940364,
-        "pct52WeekHigh": -48.43599203780742,
-        "pct52WeekLow": 63.038214857069576,
-        "sma20": 2359.1991577148438,
-        "sma50": 2077.1842578125,
-        "sma200": 2033.6324890136718,
-        "rsi14": 62.804208598621045,
-        "macd": 123.77592378936924,
-        "macdSignal": 135.52817526928033,
-        "macdHistogram": -11.75225147991108,
+        "currentPrice": 2454.3,
+        "pct1Day": -2.1419580324959315,
+        "pct5Day": 1.5038131026869654,
+        "pct52WeekHigh": -48.475459965633924,
+        "pct52WeekLow": 62.913422763684224,
+        "sma20": 2359.1051635742188,
+        "sma50": 2077.14666015625,
+        "sma200": 2033.6230895996093,
+        "rsi14": 62.639589414216786,
+        "macd": 123.62596162768841,
+        "macdSignal": 135.49818283694418,
+        "macdHistogram": -11.87222120925577,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -442,18 +439,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 101.89,
-        "pct1Day": -2.008452047088152,
-        "pct5Day": 0.013061156509362896,
-        "pct52WeekHigh": -59.76065706751593,
-        "pct52WeekLow": 68.65095129134092,
-        "sma20": 95.54841957092285,
-        "sma50": 83.20766845703125,
-        "sma200": 82.22320262908936,
-        "rsi14": 63.42915491620217,
-        "macd": 6.330476585456665,
-        "macdSignal": 6.534850171790624,
-        "macdHistogram": -0.20437358633395863,
+        "currentPrice": 101.8,
+        "pct1Day": -2.095008522853805,
+        "pct5Day": -0.07528093303903424,
+        "pct52WeekHigh": -59.79620070147335,
+        "pct52WeekLow": 68.50198097417316,
+        "sma20": 95.54391975402832,
+        "sma50": 83.20586853027343,
+        "sma200": 82.2227526473999,
+        "rsi14": 63.26381498048071,
+        "macd": 6.3232973904112555,
+        "macdSignal": 6.5334143327815415,
+        "macdHistogram": -0.210116942370286,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -785,13 +782,13 @@
       "timestamp": "2026-09-05T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2696809784538.6895,
-      "total24hVolumeUsd": 98562465676.65227,
-      "marketCapChangePct24h": -4.046981450482515,
-      "btcDominance": 59.18636944452687,
-      "ethDominance": 11.083437553798433,
+      "totalMarketCapUsd": 2696475913834.7563,
+      "total24hVolumeUsd": 97857255249.37137,
+      "marketCapChangePct24h": -4.22876727651387,
+      "btcDominance": 59.19136225104873,
+      "ethDominance": 11.083060441127843,
       "activeCryptocurrencies": 19572
     },
-    "generated_at": "2026-09-05T00:01:11.597Z"
+    "generated_at": "2026-09-05T00:22:46.651Z"
   }
 }
