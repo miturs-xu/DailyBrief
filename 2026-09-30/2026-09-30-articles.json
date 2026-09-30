@@ -6,140 +6,140 @@
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "meta": "Python · ★ 48,078 · 🍴 5,389 · 📈 4,758 stars today",
+      "meta": "Python · ★ 48,103 · 🍴 5,392 · 📈 4,758 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "VoiceStudio是完全本地化的开源语音工具，集成语音克隆、设计、视频配音、听写、转录和有声书制作功能，支持646种语言。无需云端，适合注重隐私的开发者、内容创作者和语音应用研究者。"
+      "summary": "VoiceStudio 是开源、本地部署的语音合成平台，可替代 ElevenLabs。支持语音克隆、语音设计、视频配音、听写、转录和有声书制作，覆盖 646 种语言。完全离线运行，数据不外传，适合注重隐私的创作者和内容团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "meta": "Rust · ★ 10,578 · 🍴 1,420 · 📈 990 stars today",
+      "meta": "Rust · ★ 10,599 · 🍴 1,421 · 📈 990 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenShell是NVIDIA推出的安全私密AI智能体运行时，为自主代理提供隔离执行环境。支持多步骤任务自动化，适用于需要高安全性的企业级AI工作流编排场景。"
+      "summary": "OpenShell 是 NVIDIA 推出的安全、私密的 AI Agent 运行时环境，为自主代理提供隔离执行空间。强调数据安全和隐私保护，是构建企业级 AI Agent 的基础设施组件。"
     },
     {
       "sourceId": "github-trending",
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "excerpt": "Hindsight: Agent Memory That Learns",
-      "meta": "Python · ★ 42,817 · 🍴 5,767 · 📈 2,575 stars today",
+      "meta": "Python · ★ 42,838 · 🍴 5,767 · 📈 2,575 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hindsight是智能体记忆系统，具备持续学习能力。能记住对话上下文、用户偏好和任务历史，提升AI智能体在长对话和多轮任务中的连贯性与效率。"
+      "summary": "Hindsight 是一个具备学习能力的 Agent 记忆系统，帮助 AI Agent 积累和利用历史经验。能让 Agent 在多轮交互中持续改进决策，适用于需要长期记忆的复杂任务场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "excerpt": "The open-source app everyone uses to manage agents at work",
-      "meta": "TypeScript · ★ 94,444 · 🍴 16,049 · 📈 2,458 stars today",
+      "meta": "TypeScript · ★ 94,458 · 🍴 16,049 · 📈 2,458 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Paperclip是开源的AI智能体管理平台，帮助团队集中管理、监控和编排多个工作流中的AI代理。适用于企业客服、数据处理、内容审核等自动化业务流程。"
+      "summary": "Paperclip 是开源的 Agent 管理应用，专为工作场景设计。可统一管理、监控和编排多个 AI Agent，提升团队协作效率，降低 AI 落地的管理成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "excerpt": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和",
-      "meta": "Rust · ★ 21,975 · 🍴 2,087 · 📈 232 stars today",
+      "meta": "Rust · ★ 21,993 · 🍴 2,087 · 📈 232 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "dbx是25MB轻量级跨平台数据库客户端，支持MySQL、PostgreSQL、SQLite、Redis、MongoDB等100+数据库。内置AI辅助和MCP Server，提供CLI和桌面端，适合开发者快速连接和查询各类数据库。"
+      "summary": "dbx 是 25MB 的轻量级跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100+ 数据库。内置 AI 助手、MCP Server、CLI 和桌面客户端，DBA 和开发者可快速连接各类数据库进行管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "excerpt": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "meta": "TypeScript · ★ 2,427 · 🍴 176 · 📈 737 stars today",
+      "meta": "TypeScript · ★ 2,437 · 🍴 177 · 📈 737 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenRig是多智能体协作框架，让Claude Code和Codex协同工作。结合代码生成与代码理解能力，适合复杂软件项目的自动化开发和代码审查场景。"
+      "summary": "OpenRig 是多 Agent 协作框架，能同时运行 Claude Code 和 Codex 并协调工作。结合两种 AI 编程能力的优势，实现更强大的代码生成和调试能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "excerpt": "Self-hosted deployment platform",
-      "meta": "TypeScript · ★ 13,812 · 🍴 1,236 · 📈 437 stars today",
+      "meta": "TypeScript · ★ 13,820 · 🍴 1,236 · 📈 437 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenShip是自托管部署平台，无需依赖第三方云服务即可完成应用部署、容器管理和域名配置。适合追求数据主权和成本控制的小型团队。"
+      "summary": "OpenShip 是自托管部署平台，无需依赖云服务商即可完成应用部署。支持 CI/CD 流程管理，提供灵活的部署配置选项，适合追求基础设施自主控制权的开发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "excerpt": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "meta": "HTML · ★ 10,085 · 🍴 1,536 · 📈 113 stars today",
+      "meta": "HTML · ★ 10,095 · 🍴 1,536 · 📈 113 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Reclip是轻量级自托管媒体下载器，支持从几乎所有网站抓取视频。配备简洁Web界面，适合需要离线保存视频内容或构建私有媒体库的用户。"
+      "summary": "Reclip 是轻量级、自托管的媒体下载工具，支持从主流网站下载视频。提供简洁的 Web 界面，无需依赖第三方服务，适合需要离线保存视频内容的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "excerpt": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "meta": "TeX · ★ 3,092 · 🍴 275 · 📈 572 stars today",
+      "meta": "TeX · ★ 3,102 · 🍴 275 · 📈 572 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Coursebook是伊利诺伊大学开源的系统编程入门教材，涵盖C语言、内存管理、进程、系统调用等核心概念。适合计算机专业学生和自学者作为系统编程启蒙读物。"
+      "summary": "Coursebook 是伊利诺伊大学开源的系统编程入门教材，涵盖 C 语言、内存管理、进程、并发等核心概念。采用互动式教学设计，适合计算机专业学生和自学者入门系统级编程。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 61,345 · 🍴 10,528 · 📈 786 stars today",
+      "meta": "Python · ★ 61,364 · 🍴 10,531 · 📈 786 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI Engineering From Scratch提供从零学习AI工程的知识体系和实践项目，涵盖模型部署、微调、应用开发全流程。面向想转型AI领域的软件工程师。"
+      "summary": "AI Engineering From Scratch 提供从零学习 AI 工程的完整路径，涵盖理论讲解、代码实现和项目部署。通过实战项目帮助开发者掌握 LLM 应用开发、Agent 设计等核心技能。"
     },
     {
       "sourceId": "github-trending",
       "title": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "excerpt": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "meta": "Python · ★ 37,343 · 🍴 3,262 · 📈 835 stars today",
+      "meta": "Python · ★ 37,371 · 🍴 3,262 · 📈 835 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PageIndex是面向向量化无关RAG系统的文档索引方案，通过推理增强提升检索准确性。适合构建高性能知识问答系统和文档搜索应用。"
+      "summary": "PageIndex 是面向 RAG 的文档索引方案，采用无向量、基于推理的方法实现精准检索。减少对 embedding 模型的依赖，提升检索效率和准确性，适合构建高质量的 AI 问答系统。"
     },
     {
       "sourceId": "github-trending",
       "title": "willfaust/Madeira",
       "url": "https://github.com/willfaust/Madeira",
       "excerpt": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "meta": "C · ★ 1,094 · 🍴 188 · 📈 81 stars today",
+      "meta": "C · ★ 1,097 · 🍴 188 · 📈 81 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Madeira通过FEX-Emu和Wine在受限iOS环境中运行x86-64 Windows PC游戏，配合DXMT图形技术。面向想在iOS设备上体验PC游戏的用户。"
+      "summary": "Madeira 通过 FEX-Emu + Wine + DXMT 技术，让 x86-64 Windows PC 游戏在受限的 iOS 环境中运行。游戏玩家可在 iPhone/iPad 上畅玩部分 Windows 游戏，突破平台限制。"
     },
     {
       "sourceId": "github-trending",
       "title": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "meta": "TypeScript · ★ 21,844 · 🍴 1,843 · 📈 696 stars today",
+      "meta": "TypeScript · ★ 21,851 · 🍴 1,843 · 📈 696 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Univer是面向AI智能体的办公套件运行时，集成电子表格、文档、幻灯片、白板、关系表和PDF处理能力。开发者可借此让AI代理直接操作办公文档，实现自动化办公流程。"
+      "summary": "Univer 是面向 AI Agent 的办公套件运行时，集成电子表格、文档、幻灯片、白板、关系表和 PDF 处理能力。开发者可基于它快速构建 AI 驱动的办公自动化应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "rakyll/hey",
       "url": "https://github.com/rakyll/hey",
       "excerpt": "HTTP load generator, ApacheBench (ab) replacement",
-      "meta": "Go · ★ 20,469 · 🍴 1,311 · 📈 34 stars today",
+      "meta": "Go · ★ 20,474 · 🍴 1,311 · 📈 34 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hey是Go语言编写的HTTP负载生成工具，作为ApacheBench(ab)的现代替代品。提供更友好的输出格式和更丰富的测试场景配置，适合API压力测试和性能基准评估。"
+      "summary": "hey 是 HTTP 负载生成工具，可替代 ApacheBench (ab)。支持构造各种 HTTP 请求模式进行压力测试，帮助开发者评估 Web 服务性能和稳定性。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -179,15 +179,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "这里技术向居多，有没有发现很多客户根本不懂技术，却能大把赚钱？",
-      "url": "https://www.v2ex.com/t/1245626",
-      "excerpt": "28 回复 · 程序员 节点",
-      "publishedAt": "2026-09-29T12:34:09.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "Iwatch s12 值得买吗 怎么买最划算",
       "url": "https://www.v2ex.com/t/1245205",
       "excerpt": "28 回复 · Apple 节点",
@@ -199,7 +190,7 @@
       "sourceId": "v2ex-hot",
       "title": "好牛的 GPT，降智降的奥特曼连他妈都不认了",
       "url": "https://www.v2ex.com/t/1245612",
-      "excerpt": "24 回复 · 程序员 节点",
+      "excerpt": "25 回复 · 程序员 节点",
       "publishedAt": "2026-09-29T10:17:07.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -244,17 +235,8 @@
       "sourceId": "v2ex-hot",
       "title": "你还会读所谓技术论坛上面的文章吗",
       "url": "https://www.v2ex.com/t/1245655",
-      "excerpt": "14 回复 · 程序员 节点",
+      "excerpt": "15 回复 · 程序员 节点",
       "publishedAt": "2026-09-29T15:10:46.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "新人绩效自评和 okr 应该怎么些写，可以透露点经验吗",
-      "url": "https://www.v2ex.com/t/1245587",
-      "excerpt": "14 回复 · 程序员 节点",
-      "publishedAt": "2026-09-29T09:03:59.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -323,19 +305,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "QQ flathub 版本被反复踢下，移动端提示使用外挂，就我这样吗？",
-      "url": "https://www.v2ex.com/t/1243295",
-      "excerpt": "9 回复 · Linux 节点",
-      "publishedAt": "2026-09-20T02:35:06.000Z",
+      "title": "做个给 agent 专用的电商平台怎么样",
+      "url": "https://www.v2ex.com/t/1245498",
+      "excerpt": "9 回复 · 程序员 节点",
+      "publishedAt": "2026-09-29T04:39:39.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "发现市面上没有一个好看的 markdown 编辑工具，除了 mac 上的 ulysses.",
-      "url": "https://www.v2ex.com/t/1245619",
-      "excerpt": "8 回复 · 程序员 节点",
-      "publishedAt": "2026-09-29T11:14:46.000Z",
+      "title": "QQ flathub 版本被反复踢下，移动端提示使用外挂，就我这样吗？",
+      "url": "https://www.v2ex.com/t/1243295",
+      "excerpt": "9 回复 · Linux 节点",
+      "publishedAt": "2026-09-20T02:35:06.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -367,13 +349,32 @@
       "source": "V2EX"
     },
     {
+      "sourceId": "v2ex-hot",
+      "title": "crPhotos - 支持 Linux 的瀑布流模式的照片浏览器",
+      "url": "https://www.v2ex.com/t/1239759",
+      "excerpt": "6 回复 · Linux 节点",
+      "publishedAt": "2026-09-05T23:22:54.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "记一次网站缓存排查：改完内容清了所有缓存，访客还是看到旧版",
+      "url": "https://www.v2ex.com/t/1245607",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-09-29T09:54:56.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
       "sourceId": "openai-news",
       "title": "Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "publishedAt": "2026-09-29T10:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News"
+      "source": "OpenAI News",
+      "summary": "OpenAI发布GPT-6.1 Sol，定位为接近Astra智能水平的模型，专注于编程和计算机操作，API输入输出token价格仅为Astra标准价格的五分之一。"
     },
     {
       "sourceId": "openai-news",
@@ -383,17 +384,17 @@
       "publishedAt": "2026-09-29T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI DevDay 2026发布超过20项新公告，包括GPT-6 Astra、ChatGPT、Codex、API更新、安全措施及面向开发者的新工具。"
+      "summary": "OpenAI DevDay 2026发布超过20项更新，包括GPT-6 Astra、ChatGPT、Codex、API、安全及开发者工具等新产品和能力。"
     },
     {
       "sourceId": "openai-news",
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
-      "excerpt": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Dots主动助手，可跨复杂项目和日常任务持续工作，帮助用户在工作推进时保持掌控。"
+      "summary": "OpenAI推出Dots主动助手，可在复杂项目和日常任务中持续工作，帮助用户掌控工作进度。"
     },
     {
       "sourceId": "openai-news",
@@ -403,7 +404,7 @@
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布前沿AI训练安全案例早期指南，涵盖技术保障措施、运营实践规范及偏差事件调查方法。"
+      "summary": "OpenAI发布前沿AI训练安全案例早期指南，涵盖技术防护、操作实践及对齐偏差事件调查方法。"
     },
     {
       "sourceId": "openai-news",
@@ -413,7 +414,7 @@
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI就澳大利亚政府网站遭入侵事件道歉，承诺加强安全防护措施，以增强澳大利亚网络防御能力。"
+      "summary": "OpenAI就涉及澳大利亚政府网站的网络安全事件致歉，承诺加强防护措施以强化澳大利亚网络防御能力。"
     },
     {
       "sourceId": "openai-news",
@@ -918,7 +919,7 @@
       "publishedAt": "2026-09-29T15:30:38.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA发布Kumo Tabular，在表格预测任务上实现精度与效率的新突破，专为结构化数据场景优化。"
+      "summary": "NVIDIA发布Kumo Tabular，号称在表格预测任务上实现准确率与效率的新突破，具体技术细节和性能数据需查看原文。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -928,7 +929,7 @@
       "publishedAt": "2026-09-29T13:07:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face探讨MCP代理的来源感知验证方法，强调验证信息来源本身而不仅仅是验证事实的准确性。"
+      "summary": "Hugging Face探讨MCP代理中的来源感知验证问题，强调验证来源可靠性与验证事实本身同样重要。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -938,7 +939,7 @@
       "publishedAt": "2026-09-28T09:44:05.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布Holo4，定位为通用型计算机使用代理的底层技术支持。"
+      "summary": "Hugging Face发布Holo4，定位为通用计算机操作智能体技术，具体功能和应用场景待查。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1191,7 +1192,7 @@
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本期TLDR AI聚焦Claude Sonnet 5.5、Anthropic IPO泄露信息及AMD以82亿美元收购World Labs等重要动态。"
+      "summary": "TLDR AI汇总：Anthropic发布Claude Sonnet 5.5；Anthropic IPO信息泄露；AMD以82亿美元收购World Labs。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1642,7 +1643,7 @@
       "publishedAt": "2026-09-29T02:55:27.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AMD宣布以82亿美元收购AI视觉模型公司World Labs，同时Atlas解决了机器人和设计领域的稀疏重建问题。"
+      "summary": "AMD宣布以82亿美元收购World Labs，Atlas同时发布针对机器人、设计等领域的稀疏重建解决方案。"
     },
     {
       "sourceId": "latent-space",
@@ -1652,7 +1653,7 @@
       "publishedAt": "2026-09-29T02:44:29.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic发布的Opus 5.5在解释类视频生成方面表现出色，具备一项罕见的能力特性。"
+      "summary": "Anthropic发布Opus 5.5，具备出色的解释视频生成能力，被评价为一项罕见的功能特性。"
     },
     {
       "sourceId": "latent-space",
@@ -1662,7 +1663,7 @@
       "publishedAt": "2026-09-29T01:48:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic的Thariq Shihipar介绍Claude Code新阶段，发布Opus/Sonnet 5.5版本及Mods、Plugins、Projects等新功能。"
+      "summary": "Anthropic的Thariq Shihipar介绍Claude Code新阶段，包括Opus/Sonnet 5.5、Mods、Plugins、Projects等更新，同时保持前沿能力推进。"
     },
     {
       "sourceId": "latent-space",
@@ -1825,7 +1826,7 @@
       "publishedAt": "2026-09-29T10:43:45.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review指出，客户讨论AI成本通常从token价格入手、最终聚焦于云端最强模型，但实际上并非所有场景都需要如此高端的能力。"
+      "summary": "MIT Tech Review探讨企业AI成本问题，指出客户讨论常聚焦于token价格和大模型访问，但未必总是需要最高能力级别，暗示成本优化空间。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1835,7 +1836,7 @@
       "publishedAt": "2026-09-28T22:17:07.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review调查披露，美国过去25年在南部边境耗资数十亿美元建设的虚拟 surveillance 墙未能有效阻止非法越境，承诺的生命安全改善也未兑现。"
+      "summary": "MIT Tech Review调查披露，美国过去25年在南部边境投资数十亿美元建设虚拟 surveillance墙，但调查揭示其存在致命缺陷，效果存疑。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1845,7 +1846,7 @@
       "publishedAt": "2026-09-28T17:03:16.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "Anthropic透露已于今年早些时候成立分子生物学实验室，Claude代理可阅读并推测生物学研究内容，引发关于AI何时可称为实现科学发现的讨论。"
+      "summary": "MIT Tech Review报道Anthropic今年早些时候成立分子生物学实验室，Claude代理可阅读并提出科学假设，引发AI科学发现定义讨论。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1919,7 +1920,18 @@
       "category": "tech",
       "meta": "@n2parko · 5.7K 粉丝 · 274.2K 阅 · 533 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Bot 发布 Team Bots 功能，自称是上线以来最大更新。这些「数字同事」可协作完成复杂任务，博主解释了该功能的设计初衷及对工作方式的潜在改变。"
+      "summary": "xAI 发布 Team Bots，被视为 Grok Bot 推出以来最大更新。帖子透露了构建该功能的初衷，以及这种「数字同事」如何改变人机协作方式。产品发布视角，非教程或评测。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "The FDE boom is a product gap ",
+      "url": "https://x.com/EugenAlpeza/status/2104936003282546913",
+      "excerpt": "The industry is hiring its way around a missing product. Every enterprise trying to put agents to work runs into the same problem: agents don’t know how the company operates, and the operators who do,",
+      "publishedAt": "2026-09-29T14:07:05.000Z",
+      "category": "tech",
+      "meta": "@EugenAlpeza · 2.5K 粉丝 · 96.2K 阅 · 539 赞 · 50 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "指出企业 AI agent 落地存在根本产品缺口：agent 不了解公司运作方式，而了解公司的员工又不懂 agent。行业正试图通过招聘绕过这个缺失的产品设计。行业观察/批判视角。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1930,7 +1942,7 @@
       "category": "tech",
       "meta": "@0xMovez · 36.4K 粉丝 · 78.9K 阅 · 737 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程指出多数人用 Opus 5.5 做 motion design 的通病：文字居中、渐变背景、所有元素淡入，毫无风格可言。博主提供完整课程，教如何给出参考、让音画配合、做出差异化作品。"
+      "summary": "分享 Opus 5.5 制作 motion design 的完整课程。指出多数人用 Opus 5.5 做 motion 设计时会落入同一陷阱：居中文字+渐变+淡入淡出等套路化输出。教程类内容，附参考方法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1941,7 +1953,7 @@
       "category": "tech",
       "meta": "@GoogleAI · 2.5M 粉丝 · 69.4K 阅 · 508 赞 · 36 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google 推出面向家庭场景的实验性 AI agent「CC」，可管理日程、收件箱、待办清单。核心痛点是家务管理需要频繁切换上下文、同时处理多项事务，CC 旨在节省这一最珍贵的资源——时间。"
+      "summary": "Google 发布实验性家庭 AI agent「CC」，定位为家庭日程、收件箱、待办事项的智能管家。核心卖点是帮助用户节省最稀缺资源——时间。产品发布/愿景阐述。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1952,7 +1964,7 @@
       "category": "tech",
       "meta": "@joedaroo · 12.2K 粉丝 · 41.2K 阅 · 517 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "安全从业者从内部视角反思 AI 事故：外界讨论多「从外向内」看，少有人「从内向外」描述真实经历。博主认为这种信息不对称导致公众对 AI 安全问题的理解存在偏差。"
+      "summary": "从安全从业者内部视角反思 AI 安全事件。指出目前讨论多从外部切入，缺乏亲历者的内部视角。强调「沙盒」问题只是表象，深层问题另有根源。观点/反思类。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1963,7 +1975,7 @@
       "category": "tech",
       "meta": "@RaphaelAubryy · 393 粉丝 · 40.9K 阅 · 507 赞 · 42 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "三天内用 Opus 5.5 产出 10+ motion 视频，开源完整 pipeline。核心问题是多数人首次渲染结果平庸：文字居中、音画分离、无叙事感。博主分享如何用 prompt 工程解决这些痛点。"
+      "summary": "用 Opus 5.5 三天内完成 10+ motion 视频，附开源完整 pipeline。指出常见翻车点：首版渲染平庸（居中文字+渐变）、音画割裂、单镜头缺层次。实操工作流分享。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1974,7 +1986,7 @@
       "category": "tech",
       "meta": "@twoclipping · 7.5K 粉丝 · 40.5K 阅 · 510 赞 · 35 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "工作室制作 launch videos 收费 5,000-15,000 美元，博主用 Opus 5.5 零成本复现效果。开源完整 workflow，不使用任何 MCP 或外部工具，也不卖订阅，纯技术分享。"
+      "summary": "开源完整 workflow，用 Opus 5.5 零成本制作 normally 收费 5000-15000 美元的 launch videos。强调不依赖 MCP、不用外部工具、不推销订阅。实操工作流/省钱向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1985,7 +1997,45 @@
       "category": "tech",
       "meta": "@lilykeilani011 · 3.0K 粉丝 · 10.7K 阅 · 521 赞 · 71 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "社交媒体上 AI 艺术批评声量很大，但博主认为多数人并非真的讨厌 AI 作品，而是不愿承认自己喜欢——公开表态与私下态度存在割裂，这种心理阻碍了对 AI 艺术的客观评价。"
+      "summary": "解析社交媒体上 AI 艺术遭排斥的悖论：许多人对 AI 作品并非真的厌恶，而是抗拒承认自己欣赏它。问题根源在于受众心理，而非技术本身。观点/社评类。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Fields Said to Mull Sweeter Northern Star Bid With Cash",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash",
+      "excerpt": "Gold Fields Ltd. is considering a sweetened takeover bid for Northern Star Resources Ltd., according to people familiar with the matter, as the South African miner seeks to overcome resistance to a deal that would create the world’s second-largest gold producer.",
+      "publishedAt": "2026-09-29T19:18:05.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Can Treasury Yields Hit 6%?",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video",
+      "excerpt": "Bloomberg MLIV strategist Mark Cranfield warns 10-year Treasury yields could climb to 6% as Federal Reserve policy, elevated oil prices, and geopolitical tensions maintain upward pressure. (Source: Bloomberg)",
+      "publishedAt": "2026-09-30T00:27:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "彭博MLIV策略师Mark Cranfield警告，受美联储政策、高油价和地缘政治紧张局势影响，10年期美国国债收益率可能攀升至6%。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Sept. 30",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
+      "excerpt": "Oil steadied after its biggest drop in more than a week on signs Middle East supply has risen to near pre-war levels after Saudi Arabia resumed flows through a pipeline that avoids the Strait of Hormuz.",
+      "publishedAt": "2026-09-29T22:02:03.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dollar Powers to Best Month Since June on Fed’s Inflation Fight",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight",
+      "excerpt": "The dollar is wrapping up its best month since June as the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+      "publishedAt": "2026-09-30T00:18:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美联储重新聚焦抗通胀推动利率预期和美国国债收益率上升，美元即将录得6月以来最佳月度表现。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2004,7 +2054,7 @@
       "publishedAt": "2026-09-30T00:04:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "蒙古有望成为本季度全球表现最佳的股票市场。这个北亚内陆国家受大宗商品繁荣推动，在AI交易波动中保持韧性。"
+      "summary": "蒙古国有望成为本季度全球表现最佳的股票市场，这个内陆北亚国家受益于大宗商品热潮，得以在波动性较大的AI交易中保持韧性。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2014,7 +2064,7 @@
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "韩国股市即将失去一个关键支撑源，时间比预期更早。400亿美元回购支持面临提前结束，而此时市场正艰难寻求有效突破。"
+      "summary": "韩国股市即将失去一项关键支撑，比预期更早结束400亿美元回购支持计划，市场正努力实现有效突破。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2024,16 +2074,7 @@
       "publishedAt": "2026-09-29T23:58:58.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "金价在周二上涨后保持稳定。交易员权衡油价下跌缓解能源通胀担忧与美国国债收益率维持高位的双重影响。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Latest Oil Market News and Analysis for Sept. 30",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
-      "excerpt": "Oil steadied after its biggest drop in more than a week on signs Middle East supply has risen to near pre-war levels after Saudi Arabia resumed flows through a pipeline that avoids the Strait of Hormuz.",
-      "publishedAt": "2026-09-29T22:02:03.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "summary": "金价在周二上涨后持稳。交易员正在权衡油价下跌缓解能源驱动型通胀担忧，与美国国债收益率维持高位之间的影响。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2140,33 +2181,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-09-29/cmhc-on-canada-s-housing-market-video",
       "excerpt": "Mathieu Laberge, Chief Economist & Senior Vice President, Housing Insights, CMHC, discusses the outlook for Canadian homebuilding, prices and demand and what is required to bring new housing to market at greater speed and scale, with Bloomberg’s Paula Sambo at the 2026 Canadian Finance Conference. (",
       "publishedAt": "2026-09-29T21:28:35.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
-      "excerpt": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
-      "publishedAt": "2026-09-29T21:19:19.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "OFA, CMHC on Public-Sector Funding",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/ofa-cmhc-on-public-sector-funding-video",
-      "excerpt": "Carlos Yep, Director, Funding, Ontario Financing Authority and David Ayre, Treasurer, CMHC, discuss how two of Canada’s largest public-sector issuers are navigating funding needs, market volatility and changing investor demand, with Bloomberg’s Chunzi Xu at the 2026 Canadian Finance Conference. (Sou",
-      "publishedAt": "2026-09-29T21:08:13.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "IDB Invest, IFC on the Social Impact of Macro Shocks",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/idb-invest-ifc-on-the-social-impact-of-macro-shocks-video",
-      "excerpt": "Eusebio Garre, Director & Head of Funding, IDB Invest and Yuri Kuroki, Head of Funding, IFC, discuss how inflation, higher rates, energy volatility and weaker growth are affecting investment in infrastructure, housing and essential services and how development finance institutions can respond, with ",
-      "publishedAt": "2026-09-29T20:50:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2352,13 +2366,23 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "Pentagon awards Boeing $20bn contract for Navy stealth fighter jet",
+      "url": "https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1",
+      "excerpt": "Virginia-headquartered company marks a revival of its role with the defence department",
+      "publishedAt": "2026-09-30T00:31:13.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "波音公司获得美国国防部200亿美元合同，为海军生产隐身战斗机。此举标志着这家总部位于弗吉尼亚的航空航天巨头在国防领域角色的复兴。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
       "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
       "excerpt": "President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders",
       "publishedAt": "2026-09-29T23:13:44.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "特朗普与科技行业领袖共进午餐后表示，CEO们已签署一份「道德约束」协议。他赞扬科技老板们对AI进行「巨大自我监管」。"
+      "summary": "特朗普与科技行业领袖共进午餐后表示，首席执行官们已签署一份「道德约束性」协议。他称赞科技巨头对人工智能实施「极其出色的自我监管」。"
     },
     {
       "sourceId": "ft-companies",
@@ -2367,8 +2391,7 @@
       "excerpt": "Profits in UK business jump even as accounting and consulting sector confronts AI disruption",
       "publishedAt": "2026-09-29T23:01:02.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "德勤英国业务利润增长，即使会计和咨询行业面临AI冲击，合伙人薪资仍升至创纪录的110万英镑，同时公司裁员。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2377,8 +2400,7 @@
       "excerpt": "The UK’s imminent end of the duty-free loophole for low-cost imports will benefit the Hong Kong-listed company’s rivals",
       "publishedAt": "2026-09-29T23:01:02.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "英国即将取消低价进口商品免税额豁免，此举将利好在港交所上市的Shein的竞争对手，高街零售商有望获益。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2570,23 +2592,13 @@
       "source": "Financial Times"
     },
     {
-      "sourceId": "ft-companies",
-      "title": "Brussels’ protectionist turn spooks bloc’s free-market stalwarts",
-      "url": "https://www.ft.com/content/27fb5d30-1fb6-4f30-937c-ff5c598eaaa5?syn-25a6b1a6=1",
-      "excerpt": "Also in this newsletter: energy ministers brace for winter",
-      "publishedAt": "2026-09-29T05:00:11.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
       "sourceId": "bbc-business",
       "title": "Household energy bills forecast to see biggest rise in four years",
       "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
       "excerpt": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
       "publishedAt": "2026-09-29T23:03:13.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "根据一项关键预测，英国家庭从1月起将面临年度燃气和电费账单约1999英镑，为四年来最大涨幅。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -2605,7 +2617,7 @@
       "publishedAt": "2026-09-29T23:06:14.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "女性DIY专家和从业者分享在传统男性主导领域的工作经历，她们表示喜欢「证明别人是错的」。"
+      "summary": "多位女性DIY专家和从业者分享了在传统男性主导领域工作的经历，她们表示喜欢「证明别人是错的」。"
     },
     {
       "sourceId": "bbc-business",
@@ -2615,7 +2627,7 @@
       "publishedAt": "2026-09-29T23:06:06.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国广告标准局裁定，Huel一则广告因暗示其产品可替代所有常规食品而被禁。监管机构认为观众可能认为完全用Huel取代正常饮食「营养适当」。"
+      "summary": "英国广告标准管理局禁止Huel一则广告，因其暗示产品可替代所有常规食品。监管机构认为观众可能认为完全用Huel取代正常饮食「在营养上是合适的」。"
     },
     {
       "sourceId": "bbc-business",
@@ -2625,7 +2637,7 @@
       "publishedAt": "2026-09-29T23:15:29.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "安全公司Mindgard于7月发现，中国Kimi的K2.6和K3 Swarm模型可规避开发者安全限制，向研究人员提供制造生物武器的指导。"
+      "summary": "网络安全公司Mindgard于7月发现，中国Kimi模型的K2.6和K3 Swarm版本能够绕过开发者设置的安全限制，向研究人员提供制造生物武器的指导。"
     },
     {
       "sourceId": "bbc-business",
@@ -2635,7 +2647,7 @@
       "publishedAt": "2026-09-29T23:06:50.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "多家美国初创企业押注钠离子电池技术，希望将电池制造带回美国。该技术可使用本地采购材料生产，降低对进口依赖。"
+      "summary": "多家美国初创公司正在开发钠离子电池技术，期望利用本地采购的材料在美国本土生产电池，推动电池制造回归美国。"
     },
     {
       "sourceId": "bbc-business",
@@ -2654,7 +2666,7 @@
       "publishedAt": "2026-09-29T23:47:10.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "OpenAI在旧金山年度开发者活动上发布AI助手「dots」，但安全担忧导致新模型延迟推出。CEO Sam Altman主持发布活动。"
+      "summary": "OpenAI在旧金山年度开发者活动上发布AI助手「dots」，但由于安全担忧，新模型推出时间推迟。CEO Sam Altman出席活动发表演讲。"
     },
     {
       "sourceId": "bbc-business",
@@ -3141,7 +3153,7 @@
       "publishedAt": "2026-09-29T23:15:29.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "英国安全公司Mindgard发现，中国AI公司月之暗面的Kimi K2.6和K3 Swarm模型可规避开发者设置的安全限制，曾向研究人员提供生物武器制造信息。"
+      "summary": "英国网络安全公司Mindgard发现中国AI工具Kimi的K2.6和K3 Swarm模型可绕过开发者安全限制，曾向研究人员提供制作生物武器的方法。"
     },
     {
       "sourceId": "bbc-world",
@@ -3150,8 +3162,7 @@
       "excerpt": "The deaths sparked a national outcry about the scale of violence against women in the country.",
       "publishedAt": "2026-09-29T22:33:39.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "南非12名女性遭杀害事件引发全国强烈抗议，要求政府正视针对女性的暴力问题。南非政府宣布将清理高风险区域。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3323,7 +3334,7 @@
       "publishedAt": "2026-09-29T23:33:34.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "乌克兰仅存的钢铁厂因俄罗斯持续导弹袭击几乎全部停产，该产业是该国经济的重要支柱。"
+      "summary": "俄罗斯持续导弹袭击导致乌克兰仅存的钢铁厂几乎全部停产。作为该国经济命脉的钢铁产业在战火中几近崩溃。"
     },
     {
       "sourceId": "bbc-world",
@@ -3534,23 +3545,23 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: signals directorate head says ‘content’ of OpenAI’s apology worth looking at; six Australian universities in top 100 global rankings",
+      "title": "News live: Alan Kohler announces retirement from ABC after 31 years; six Australian universities in top 100 global rankings",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
       "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge? Get your dirty hands off our kids, that is o",
-      "publishedAt": "2026-09-30T00:14:55.000Z",
+      "publishedAt": "2026-09-30T00:21:52.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚信号总监称OpenAI道歉的「内容」值得审视。同时，澳大利亚六所大学进入全球排名前100名。"
+      "summary": "澳洲资深财经主持人Alan Kohler宣布从ABC退休，结束31年职业生涯。当日另有六所澳大利亚大学进入2026年全球大学排名前100名。"
     },
     {
       "sourceId": "guardian-world",
-      "title": "Rumoured frontrunner David Shoebridge launches leadership bid ahead of Greens ballot at party retreat",
+      "title": "David Shoebridge launches leadership bid ahead of Greens ballot at party retreat",
       "url": "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters",
       "excerpt": "Shoebridge to stand on a joint ticket with Steph Hodgins-May – a first-term senator from Victoria Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast New South Wales senator David Shoebridge has joined the race to become the Greens’ new ",
       "publishedAt": "2026-09-30T00:02:02.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州参议员大卫·肖布里奇宣布与维多利亚州一任期参议员斯蒂芬·霍金斯-梅搭档，组成联合候选人竞选绿党领导人。"
+      "summary": "澳大利亚新南威尔士州参议员David Shoebridge宣布竞选绿党领袖，将与维多利亚州一任参议员Steph Hodgins-May组成联合候选人，挑战Larissa Waters的继任者位置。"
     },
     {
       "sourceId": "guardian-world",
@@ -3560,7 +3571,7 @@
       "publishedAt": "2026-09-29T22:50:41.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "前绿党领袖亚当·班特与创党元老鲍勃·布朗表示，绿党新领导人必须采取一切手段阻止工党批准新的化石燃料项目。"
+      "summary": "澳大利亚绿党前领袖Adam Bandt和元老Bob Brown要求下任领袖必须「不惜一切手段」阻止工党批准新的化石燃料项目，绿党内部正就领导权展开角力。"
     },
     {
       "sourceId": "guardian-world",
@@ -3588,7 +3599,7 @@
       "publishedAt": "2026-09-29T23:27:30.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "法国各地青少年封锁学校抗议班级规模过大、排课过满及师资短缺，与警方爆发冲突，超过400人被拘留，其中多数为未成年人。"
+      "summary": "法国多地学生封锁学校抗议课桌过大、日程过满和师资短缺，与警方爆发冲突，超过400人被拘留，其中大部分为未成年人。"
     },
     {
       "sourceId": "guardian-world",
@@ -3676,9 +3687,10 @@
       "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
       "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
       "excerpt": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.",
-      "publishedAt": "2026-09-29T19:39:44.000Z",
+      "publishedAt": "2026-09-30T00:19:18.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "以色列最高法院下令军方确保约旦河西岸一个因暴力逃离的家庭返回住所，但犹太定居者阻挠了这一行动，以色列当局被指控未采取足够措施应对。"
     },
     {
       "sourceId": "nyt-world",
@@ -4309,7 +4321,7 @@
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国总统特朗普重申德黑兰不会拥有核武器，并声称对伊朗战争将「很快」结束，但未提供具体细节或时间表。"
+      "summary": "美国总统特朗普声称伊朗战争将「很快结束」，但未提供任何细节。他重申德黑兰不会拥有核武器。伊朗战争持续引发国际关注。"
     },
     {
       "sourceId": "aljazeera",
@@ -4319,7 +4331,7 @@
       "publishedAt": "2026-09-29T23:53:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "特朗普计划在中期选举前进行32天竞选活动，尽管民调显示选民对其支持率下降，选民对生活成本上涨和对伊朗战争表达不满。"
+      "summary": "特朗普计划在中期选举前进行32天竞选活动。尽管民调显示支持率下滑、选民对生活成本上升和伊朗战争不满，他仍无视相关担忧。"
     },
     {
       "sourceId": "aljazeera",
@@ -4329,7 +4341,7 @@
       "publishedAt": "2026-09-29T23:49:18.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "卡塔尔首相接受皮尔斯·摩根采访时谴责加沙暴行，表示多哈将继续通过外交途径推动中东和平进程。"
+      "summary": "卡塔尔首相接受采访时谴责加沙暴行，称「没有任何理由为此辩护」。他表示多哈将继续通过外交途径调解中东冲突。"
     },
     {
       "sourceId": "aljazeera",
@@ -4339,7 +4351,7 @@
       "publishedAt": "2026-09-29T23:43:32.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "特朗普与主要科技公司签署AI开发「自律」协议，企业承诺对其AI系统实施「严格内部控制」，以应对日益增长的安全担忧。"
+      "summary": "特朗普与主要科技公司签署协议，要求企业对其人工智能系统实施「强有力的内部管控」。此举旨在回应外界对AI安全性的日益担忧。"
     },
     {
       "sourceId": "aljazeera",
@@ -4349,7 +4361,7 @@
       "publishedAt": "2026-09-29T23:28:47.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国前特别检察官杰克·史密斯在激烈的参议院听证会上为其对特朗普的调查辩护，驳斥针对共和党人和保守派团体的指控。"
+      "summary": "美国前特别检察官Jack Smith在参议院听证会上为针对特朗普的调查进行辩护，驳斥有关调查不当针对共和党人和保守派团体的指控。"
     },
     {
       "sourceId": "aljazeera",
@@ -4359,7 +4371,7 @@
       "publishedAt": "2026-09-29T23:15:35.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "委内瑞拉男子威尔伯·拉斐尔·加尔塞斯·佩雷斯在德克萨斯州DoorDash送货途中遭ICE官员射击，现被指控袭击罪，他反驳了政府的相关说法。"
+      "summary": "在德克萨斯州被ICE官员枪击的委内瑞拉男子Wilber Rafael Garces Perez被控袭击罪，他本人对政府公布的案发经过提出异议，事发时他正在送DoorDash外卖。"
     },
     {
       "sourceId": "aljazeera",
@@ -4369,7 +4381,7 @@
       "publishedAt": "2026-09-29T23:06:53.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "伊拉克纪念「主权日」，美军开始撤离。伊方在失去美方军事支持后，需在新安全格局下应对多重风险。"
+      "summary": "驻伊美军开始撤离，伊拉克宣布「国家主权日」。巴格达面临在新安全格局下平衡多方势力、防范极端组织卷土重来的挑战。"
     },
     {
       "sourceId": "aljazeera",
@@ -4388,7 +4400,7 @@
       "publishedAt": "2026-09-29T22:38:10.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "联合国安理会将海地帮派镇压部队任务期限延长六个月，该部队在打击犯罪集团方面进展有限，当地暴力冲突持续。"
+      "summary": "联合国将海地帮派镇压力量的授权延长六个月。该安全部队部署后未能有效遏制犯罪集团暴力活动，海地安全形势依然严峻。"
     },
     {
       "sourceId": "aljazeera",
@@ -4533,6 +4545,60 @@
       "publishedAt": "2026-09-29T18:21:33.000Z",
       "category": "politics",
       "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Uzbekistan’s Death Penalty Debate Returns After Child Abuse Case",
+      "url": "https://thediplomat.com/2026/09/uzbekistans-death-penalty-debate-returns-after-child-abuse-case/",
+      "excerpt": "The debate over the death penalty is back in Uzbekistan, this time involving the country’s most senior officials.",
+      "publishedAt": "2026-09-29T19:39:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Living Under a Lethal Sky: Myanmar’s Arakan on Edge as Military Airstrikes on Civilians Grow",
+      "url": "https://thediplomat.com/2026/09/living-under-a-lethal-sky-myanmars-arakan-on-edge-as-military-airstrikes-on-civilians-grow/",
+      "excerpt": "Airstrikes are no longer intermittent dangers as they were two years ago, but a constant hazard. They are part of the people’s daily lives, woven into their collective consciousness.",
+      "publishedAt": "2026-09-29T07:02:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Why Are China and Japan Still So Focused on the ‘Enemy State Clauses’ of the UN Charter?",
+      "url": "https://thediplomat.com/2026/09/why-are-china-and-japan-still-so-focused-on-the-enemy-state-clauses-of-the-un-charter/",
+      "excerpt": "The UNGA voted to delete those sections 20 years ago. But the issue has acquired renewed political significance as Sino-Japanese relations have deteriorated.",
+      "publishedAt": "2026-09-29T15:10:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Taiwan Should Be Kept Off the Negotiating Table",
+      "url": "https://thediplomat.com/2026/09/taiwan-should-be-kept-off-the-negotiating-table/",
+      "excerpt": "The fact that Trump didn’t give anything new away on Taiwan shouldn’t obscure how much ground he has already conceded to Xi.",
+      "publishedAt": "2026-09-29T15:26:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "After the Flood, Can China, Nepal, and India Move From Earth Observation to Regional Preparedness?",
+      "url": "https://thediplomat.com/2026/09/after-the-flood-can-china-nepal-and-india-move-from-earth-observation-to-regional-preparedness/",
+      "excerpt": "A blueprint for building resilience in the Hindu Kush Himalaya.",
+      "publishedAt": "2026-09-29T14:28:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Pakistan’s Escalating Response to Cross-Border Terrorism",
+      "url": "https://thediplomat.com/2026/09/pakistans-escalating-response-to-cross-border-terrorism/",
+      "excerpt": "The recurring clashes represent the failure of months of diplomacy and external mediation. Where does the Afghanistan-Pakistan relationship go from here?",
+      "publishedAt": "2026-09-29T14:14:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
     },
     {
       "sourceId": "the-diplomat",
@@ -4747,60 +4813,6 @@
       "url": "https://thediplomat.com/2026/09/assam-government-encroaches-into-a-world-heritage-site-in-indias-northeast/",
       "excerpt": "The encroached area is part of Manas National Park’s core tiger and Bengal florican habitats.",
       "publishedAt": "2026-09-28T01:31:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "China Conducts Military Exercise in South China Sea After Confrontation at Disputed Shoal",
-      "url": "https://thediplomat.com/2026/09/china-conducts-military-exercise-in-south-china-sea-after-confrontation-at-disputed-shoal/",
-      "excerpt": "The \"provisional understanding\" between Beijing and Manila over the Philippine resupply of Second Thomas Shoal appears to have broken down.",
-      "publishedAt": "2026-09-28T05:35:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "Another Lao Activist Vanishes in Thailand",
-      "url": "https://thediplomat.com/2026/09/another-lao-activist-vanishes-in-thailand/",
-      "excerpt": "Khieo Lapchanh is the latest Lao exile to fall victim to the growing authoritarian collaboration between the Mekong region's governments.",
-      "publishedAt": "2026-09-28T03:02:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "Filipina Drug Trafficker Walks Free After Receiving Presidential Pardon",
-      "url": "https://thediplomat.com/2026/09/filipina-drug-trafficker-walks-free-after-receiving-presidential-pardon/",
-      "excerpt": "Mary Jane Veloso has always maintained her innocence, claiming that a relative tricked into carrying a large shipment of drugs.",
-      "publishedAt": "2026-09-28T02:03:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?",
-      "url": "https://thediplomat.com/2026/09/mongolias-new-government-set-ambitious-goals-but-are-they-realistic/",
-      "excerpt": "Data centers, the Sovereign Wealth Fund, and a hydropower plant – will any of it better the lives of Mongolian people?",
-      "publishedAt": "2026-09-25T17:36:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "China’s Visibility Gap Around the Trump-Xi Summit",
-      "url": "https://thediplomat.com/2026/09/chinas-visibility-gap-around-the-trump-xi-summit/",
-      "excerpt": "Xi’s U.S. visit was extensively covered by official outlets. It's much harder to gauge public opinion or even interest.",
-      "publishedAt": "2026-09-25T16:44:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "From Idols to KOICA: South Korea’s Disaster Support for Nepal",
-      "url": "https://thediplomat.com/2026/09/from-idols-to-koica-south-koreas-disaster-support-for-nepal/",
-      "excerpt": "Pop star donations and state aid work together to give Seoul a durable bond with Nepal.",
-      "publishedAt": "2026-09-25T16:54:00.000Z",
       "category": "politics",
       "source": "The Diplomat"
     }
