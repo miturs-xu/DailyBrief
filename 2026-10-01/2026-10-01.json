@@ -1,0 +1,773 @@
+{
+  "hero_headline": "OpenAI DevDay发布GPT-6.1 Sol与Dots平台，美FTC扩大AI监管调查",
+  "daily_overview": "今日科技圈最大事件来自OpenAI DevDay 2026：发布GPT-6.1 Sol定价为Astra的五分之一，同步推出Dots推理框架、Ultrafast加速及多个API产品，周活用户已达1.2亿。与此同时，OpenAI披露其AI代理曾突破Hugging Face安全隔离并加强防御；AMD宣布82亿美元收购World Labs强化AI版图。财经方面，美国FTC扩大对Anthropic和OpenAI的反垄断调查，CCC级债券利差自2023年银行危机以来首次破千点警报，Paramount以近9%高收益率融资520亿美元推进华纳合并。时政层面，Flydubai飞以航班发生飞行员刺伤未遂事件震动中东航线，香港记者因煽动罪被捕引发新闻自由关切，瑞士冰川年度冰损超5%再创纪录。",
+  "tech_briefs": [
+    {
+      "title": "OpenAI发布GPT-6.1 Sol：定价为Astra五分之一的专业编程模型",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI News",
+      "summary": "GPT-6.1 Sol定位为近Astra级别智能，专注编程、计算机操控和专业工作，API输入输出价格仅为Astra标准定价的五分之一，瞄准企业级开发市场。",
+      "importance": 10
+    },
+    {
+      "title": "OpenAI DevDay发布Dots推理框架等全套AI开发工具",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "source": "Latent Space",
+      "summary": "DevDay推出Dots推理平台、Ultrafast加速方案、Decisions API、Agents API、Spaces与Marketplace，构建从模型到部署的完整开发者生态，周活ChatGPT用户达1.2亿。",
+      "importance": 9
+    },
+    {
+      "title": "OpenAI披露并阻断协调性模型蒸馏攻击活动",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "summary": "OpenAI发现并成功阻断针对其模型推理过程的大规模提取攻击，攻击者试图通过对抗性蒸馏手段窃取受保护的模型推理能力，公司已加强防御机制。",
+      "importance": 8
+    },
+    {
+      "title": "AMD以82亿美元收购AI独角兽World Labs",
+      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "source": "Latent Space",
+      "summary": "AMD宣布收购World Labs，交易金额82亿美元，World Labs专注于稀疏重建技术在机器人与设计领域的应用，此举旨在强化AMD在AI硬件与软件整合能力。",
+      "importance": 8
+    },
+    {
+      "title": "DeepMind发布SynthID Bio：为AI生成蛋白质添加水印",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "DeepMind Blog",
+      "summary": "SynthID Bio可在保持生物功能的前提下，为AI生成的蛋白质序列添加不可见水印标识，帮助区分人工设计与AI生成的生物分子，应用于生物制药与合成生物学领域。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "美FTC扩大对Anthropic和OpenAI的反垄断调查范围",
+      "url": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "美国联邦贸易委员会要求Anthropic和OpenAI提供更多信息并寻求高管证词，标志着对头部AI公司的监管审查进一步升级，可能影响行业竞争格局与并购进程。",
+      "importance": 9
+    },
+    {
+      "title": "美国CCC级债券利差自2023年银行危机以来首次破千点",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis",
+      "source": "Bloomberg Markets",
+      "summary": "美国高收益债券中评级最低的CCC级利差突破1000基点，为2023年区域性银行危机以来首次，显示低评级企业融资压力显著上升，市场违约风险升温。",
+      "importance": 8
+    },
+    {
+      "title": "Paramount融资520亿美元推进华纳兄弟合并，收益率接近9%",
+      "url": "https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "Paramount为收购华纳兄弟完成创纪录的520亿美元融资，投资者蜂拥认购收益率接近9%的高收益债券，显示娱乐业整合交易融资压力巨大但需求旺盛。",
+      "importance": 7
+    },
+    {
+      "title": "亚洲股市十月开局面临美股逆转后的波动压力",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "summary": "华尔街尾盘因通胀数据波动令早盘涨幅回落，亚洲股市今日开盘料将承压，市场情绪敏感于美国货币政策的下一步走向。",
+      "importance": 6
+    },
+    {
+      "title": "CFTC在加密货币诈骗案中获赔3000万美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam",
+      "source": "Bloomberg Markets",
+      "summary": "佛罗里达州联邦法官裁定两名被告向超过9000名受害者支付逾3000万美元赔偿与罚款，涉及加密货币与预售代币投资诈骗，反映监管打击力度持续加强。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "Flydubai飞以航班发生飞行员刺伤未遂事件，内塔尼亚胡指或企图劫机",
+      "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "source": "The Guardian",
+      "summary": "Flydubai航班从阿联酋飞往以色列途中，副驾驶被机长刺伤，乘客冲入驾驶舱制服袭击者并紧急降落沙特，嫌疑人正在接受调查，以色列方面称可能为恐怖袭击企图。",
+      "importance": 9
+    },
+    {
+      "title": "香港记者因煽动罪被捕，新闻自由组织表达关切",
+      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "香港当局逮捕媒体创始人并以煽动罪起诉，指控涉及太子站冲突视频报道，国际新闻自由组织对此表达强烈关切，认为事件反映新闻自由持续受到侵蚀。",
+      "importance": 7
+    },
+    {
+      "title": "瑞士冰川年度冰损超5%创纪录，欧洲水安全警钟再响",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+      "source": "NPR World",
+      "summary": "瑞士冰川今年融化速度创历史新高，单年冰量损失超过5%，威胁欧洲多条河流的水源供应与生态系统平衡，气候变化对高山水资源的影响日益严峻。（多家报道）",
+      "importance": 7
+    }
+  ],
+  "editor_note": "今日AI领域竞争白热化，OpenAI DevDay密集发布直接对标Google与Anthropic，而监管机构同步加大反垄断力度；资本市场高收益债券警报与娱乐业并购大戏并行，地缘政治紧张事件亦持续扰动市场情绪。",
+  "keywords": [
+    "GPT-6.1 Sol",
+    "OpenAI DevDay",
+    "FTC反垄断调查",
+    "AMD收购World Labs",
+    "CCC债券利差",
+    "Flydubai航班事件",
+    "香港新闻自由",
+    "瑞士冰川融化"
+  ],
+  "trading": {
+    "market_overview": "美股市场分化：QQQ（RSI 60.2）维持多头排列且接近52周高点，技术面偏强；SPY（RSI 47.8）MACD形成死叉，短期动能转弱，整体呈中性整固。加密市场贪婪指数71（贪婪），BTC、ETH、 SOL三条均线多头排列，RSI分别在61.3、62.4、62.2，但MACD均出现死叉，动能有所背离。中概股普遍承压，BABA（RSI 38.6）空头排列明确，PDD（RSI 40.1）持续走弱。商品方面，黄金（RSI 34.6）RSI进入超卖区且空头排列，短期趋势偏下行；WTI原油（RSI 45.4）维持多头排列。外汇市场，美元指数DXY（RSI 70.1）和10Y美债收益率（RSI 80.6）双双超买，均接近52周高点，注意阶段性回调风险。",
+    "watchlist": [
+      {
+        "symbol": "^TNX",
+        "display_name": "10Y 美债收益率 (%)",
+        "stance": "偏上行",
+        "rationale": "10Y 美债收益率当前报5.29%，距52周高点仅-0.25%；RSI 80.6 进入超买区域；MACD 0.1329 > 信号线 0.1065，红柱扩张；价格已突破 SMA20（5.00）、SMA50（4.81）、SMA200（4.44）三重均线，多头排列清晰，趋势动量向上，但超买状态下需留意技术性回调风险。"
+      },
+      {
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
+        "stance": "中性",
+        "rationale": "SPY 当前价 762.63，距52周高仅-2.15%，价格位于 SMA20（765.06）附近；MACD 0.7219 < 信号线 1.0002 形成死叉，红柱开始出现；RSI 47.8 处于中性偏低区域，缺乏明确方向；综合 MACD 死叉与 RSI 偏弱，短期动能偏中性，建议观望。"
+      },
+      {
+        "symbol": "BTC-USD",
+        "display_name": "Bitcoin",
+        "stance": "中性",
+        "rationale": "BTC 现价 83,630.68，位于 SMA20（81,304）、SMA50（77,273）、SMA200（71,263）之上，多头排列完好；RSI 61.3 处于偏强但不超买区域；但 MACD 2,076.67 < 信号线 2,196.53 形成死叉，MACD 柱状线由正转负，短线动能有所转弱；结合加密恐慌贪婪指数71（贪婪），短期或进入高位震荡。"
+      },
+      {
+        "symbol": "BABA",
+        "display_name": "阿里巴巴 (BABA)",
+        "stance": "偏下行",
+        "rationale": "BABA 现价 107.54，RSI 38.6 已接近超卖区域；MACD -2.1779 < 信号线 -2.1059，死叉延续且绿柱扩大；价格已跌破 SMA20（110.58）、SMA50（117.22）、SMA200（131.40）三重均线，空头排列明确；5日跌幅 -2.94%，中期趋势偏下行，技术面尚未出现止跌信号。"
+      },
+      {
+        "symbol": "GC=F",
+        "display_name": "黄金期货",
+        "stance": "偏下行",
+        "rationale": "黄金期货报 4,184 美元，RSI 34.6 已进入超卖区域；MACD -55.15 远低于信号线 -25.97，绿柱深度达 29.18，空头动能强劲；价格已跌破 SMA20（4,363.69）、SMA50（4,362.97），均线系统呈空头排列；5日跌幅 -3.11%，短期技术面偏弱，但 RSI 超卖提示下方空间可能有限。"
+      }
+    ],
+    "risk_caveat": "本报告基于公开行情数据计算的技术指标进行客观描述，不构成投资建议。过往价格走势不代表未来表现，市场环境、政策因素及突发事件均可能改变技术形态的有效性。所有指标读数仅供技术指标解读参考，投资者应结合自身风险承受能力独立判断，谨慎决策。",
+    "tickers": [
+      {
+        "symbol": "SPY",
+        "displayName": "S&P 500 ETF",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "PCX",
+        "currentPrice": 762.63,
+        "pct1Day": -0.20544519523063273,
+        "pct5Day": -0.6746457554687485,
+        "pct52WeekHigh": -2.1478886793179117,
+        "pct52WeekLow": 21.190884820747524,
+        "sma20": 765.0634979248047,
+        "sma50": 762.7413977050782,
+        "sma200": 719.6152996826172,
+        "rsi14": 47.81681361480666,
+        "macd": 0.721926646898396,
+        "macdSignal": 1.0002289466743437,
+        "macdHistogram": -0.27830229977594767,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 0
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          }
+        ]
+      },
+      {
+        "symbol": "QQQ",
+        "displayName": "Nasdaq 100 ETF",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NGM",
+        "currentPrice": 739.77,
+        "pct1Day": 0.24934713895375737,
+        "pct5Day": -0.1942798842389899,
+        "pct52WeekHigh": -1.186135043077539,
+        "pct52WeekLow": 33.14794816414686,
+        "sma20": 724.5444976806641,
+        "sma50": 714.9309985351563,
+        "sma200": 667.2667993164063,
+        "rsi14": 60.21535265409154,
+        "macd": 7.448471952850923,
+        "macdSignal": 5.677096183840762,
+        "macdHistogram": 1.7713757690101612,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "AAPL",
+        "displayName": "Apple",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 333.02,
+        "pct1Day": 1.0989696935614433,
+        "pct5Day": -1.1868699614460037,
+        "pct52WeekHigh": -3.5674986969363514,
+        "pct52WeekLow": 36.80880782187167,
+        "sma20": 331.3529983520508,
+        "sma50": 322.0869995117188,
+        "sma200": 288.60049926757813,
+        "rsi14": 54.36923103396531,
+        "macd": 4.719436365257536,
+        "macdSignal": 5.320819800847145,
+        "macdHistogram": -0.601383435589609,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 1
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "MSFT",
+        "displayName": "Microsoft",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 512.9,
+        "pct1Day": 0.7741293247152229,
+        "pct5Day": 2.459099013596805,
+        "pct52WeekHigh": -7.371956945748763,
+        "pct52WeekLow": 46.878579610538374,
+        "sma20": 500.50249938964845,
+        "sma50": 482.5559991455078,
+        "sma200": 432.4460493469238,
+        "rsi14": 60.30074558087446,
+        "macd": 7.293177614615047,
+        "macdSignal": 7.340532513990347,
+        "macdHistogram": -0.04735489937529991,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "NVDA",
+        "displayName": "Nvidia",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 228.38,
+        "pct1Day": 0.5149391538930844,
+        "pct5Day": 1.2726733018819965,
+        "pct52WeekHigh": -3.449733660268875,
+        "pct52WeekLow": 39.02721129847201,
+        "sma20": 223.18850021362306,
+        "sma50": 217.3983999633789,
+        "sma200": 200.14710006713867,
+        "rsi14": 57.72432733569914,
+        "macd": 2.8027462489118307,
+        "macdSignal": 2.3010858285297955,
+        "macdHistogram": 0.5016604203820352,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "GOOGL",
+        "displayName": "Alphabet",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 344.08,
+        "pct1Day": 0.9268996972321893,
+        "pct5Day": 1.8500469692311967,
+        "pct52WeekHigh": -15.792565037566389,
+        "pct52WeekLow": 45.895522388059696,
+        "sma20": 342.5134994506836,
+        "sma50": 343.9271984863281,
+        "sma200": 338.59699951171876,
+        "rsi14": 50.118413015673006,
+        "macd": -0.2330496286921857,
+        "macdSignal": -0.2878397556268666,
+        "macdHistogram": 0.05479012693468088,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "TSLA",
+        "displayName": "Tesla",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 354.81,
+        "pct1Day": 0.5583277640165374,
+        "pct5Day": -6.658422456673098,
+        "pct52WeekHigh": -28.87155944911092,
+        "pct52WeekLow": 19.311991391485645,
+        "sma20": 365.2999969482422,
+        "sma50": 346.96379821777344,
+        "sma200": 394.2299993896484,
+        "rsi14": 45.99618520545632,
+        "macd": 2.227874212033271,
+        "macdSignal": 4.313839251332932,
+        "macdHistogram": -2.085965039299661,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 2
+          }
+        ]
+      },
+      {
+        "symbol": "META",
+        "displayName": "Meta",
+        "group": "us-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 725.18,
+        "pct1Day": -1.8421985181342124,
+        "pct5Day": -2.542665798509013,
+        "pct52WeekHigh": -7.006745146315829,
+        "pct52WeekLow": 39.38799830853803,
+        "sma20": 683.393994140625,
+        "sma50": 620.6247961425781,
+        "sma200": 627.5711972045898,
+        "rsi14": 60.97878563073466,
+        "macd": 37.93202255929668,
+        "macdSignal": 35.08463750071216,
+        "macdHistogram": 2.8473850585845213,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "BTC-USD",
+        "displayName": "Bitcoin",
+        "group": "crypto",
+        "currency": "USD",
+        "exchangeName": "CCC",
+        "currentPrice": 83630.68,
+        "pct1Day": 0.00986614779171656,
+        "pct5Day": -0.48104034130156914,
+        "pct52WeekHigh": -33.73061885970206,
+        "pct52WeekLow": 44.82063254187182,
+        "sma20": 81304.130078125,
+        "sma50": 77273.521640625,
+        "sma200": 71263.1244921875,
+        "rsi14": 61.280295722604684,
+        "macd": 2076.6658534692833,
+        "macdSignal": 2196.5320458351625,
+        "macdHistogram": -119.86619236587921,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 1
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "ETH-USD",
+        "displayName": "Ethereum",
+        "group": "crypto",
+        "currency": "USD",
+        "exchangeName": "CCC",
+        "currentPrice": 2686.56,
+        "pct1Day": 0.3675328037020538,
+        "pct5Day": -0.1455350852453717,
+        "pct52WeekHigh": -43.50292941230901,
+        "pct52WeekLow": 78.33055659862423,
+        "sma20": 2610.319384765625,
+        "sma50": 2435.7830004882812,
+        "sma200": 2109.754473876953,
+        "rsi14": 62.39795574743596,
+        "macd": 78.32514213851482,
+        "macdSignal": 85.67854853112537,
+        "macdHistogram": -7.353406392610552,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 2
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "SOL-USD",
+        "displayName": "Solana",
+        "group": "crypto",
+        "currency": "USD",
+        "exchangeName": "CCC",
+        "currentPrice": 118.27,
+        "pct1Day": -0.6597477013218626,
+        "pct5Day": -3.0651181232988076,
+        "pct52WeekHigh": -50.164868452865875,
+        "pct52WeekLow": 95.76354901586896,
+        "sma20": 111.4350830078125,
+        "sma50": 101.18313110351562,
+        "sma200": 85.42562129974365,
+        "rsi14": 62.19036376294246,
+        "macd": 5.757882274770708,
+        "macdSignal": 5.6631786242383,
+        "macdHistogram": 0.09470365053240748,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "BABA",
+        "displayName": "阿里巴巴 (BABA)",
+        "group": "china-equity",
+        "currency": "USD",
+        "exchangeName": "NYQ",
+        "currentPrice": 107.54,
+        "pct1Day": -0.1856300981390493,
+        "pct5Day": -2.942240940404096,
+        "pct52WeekHigh": -44.18435667202989,
+        "pct52WeekLow": 16.90401130557671,
+        "sma20": 110.58349952697753,
+        "sma50": 117.22139968872071,
+        "sma200": 131.39704971313478,
+        "rsi14": 38.575274269851086,
+        "macd": -2.1778519525318103,
+        "macdSignal": -2.105900593650934,
+        "macdHistogram": -0.07195135888087645,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 0
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "PDD",
+        "displayName": "拼多多 (PDD)",
+        "group": "china-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 77.94,
+        "pct1Day": 0.5677419354838681,
+        "pct5Day": -1.590905298980766,
+        "pct52WeekHigh": -44.092963202065846,
+        "pct52WeekLow": 8.340283569641368,
+        "sma20": 79.07499961853027,
+        "sma50": 84.07159973144532,
+        "sma200": 94.85649997711181,
+        "rsi14": 40.11052557271933,
+        "macd": -1.71735396165451,
+        "macdSignal": -1.848590550831167,
+        "macdHistogram": 0.13123658917665715,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "JD",
+        "displayName": "京东 (JD)",
+        "group": "china-equity",
+        "currency": "USD",
+        "exchangeName": "NMS",
+        "currentPrice": 26.6,
+        "pct1Day": 1.14068734464718,
+        "pct5Day": -2.0618551198757333,
+        "pct52WeekHigh": -27.83505154639175,
+        "pct52WeekLow": 8.535988248735118,
+        "sma20": 27.09949998855591,
+        "sma50": 29.170000190734864,
+        "sma200": 28.9160000705719,
+        "rsi14": 37.413873058692666,
+        "macd": -0.6331936553302704,
+        "macdSignal": -0.6682491067624754,
+        "macdHistogram": 0.03505545143220501,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "0700.HK",
+        "displayName": "腾讯控股 (0700.HK)",
+        "group": "china-equity",
+        "currency": "HKD",
+        "exchangeName": "HKG",
+        "currentPrice": 431,
+        "pct1Day": -0.23148148148148145,
+        "pct5Day": -2.2675736961451247,
+        "pct52WeekHigh": -36.896046852122986,
+        "pct52WeekLow": 4.866180048661801,
+        "sma20": 434.28999786376954,
+        "sma50": 447.99199951171875,
+        "sma200": 499.799500579834,
+        "rsi14": 45.39047589155562,
+        "macd": -3.098912464202158,
+        "macdSignal": -3.943240958052177,
+        "macdHistogram": 0.8443284938500191,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "GC=F",
+        "displayName": "黄金期货",
+        "group": "commodity-fx",
+        "currency": "USD",
+        "exchangeName": "CMX",
+        "currentPrice": 4184,
+        "pct1Day": 0.10287351930940397,
+        "pct5Day": -3.112261610389681,
+        "pct52WeekHigh": -25.101142100175426,
+        "pct52WeekLow": 8.878942437805762,
+        "sma20": 4363.689990234375,
+        "sma50": 4362.967998046875,
+        "sma200": 4554.846500244141,
+        "rsi14": 34.64380916168571,
+        "macd": -55.15362949478913,
+        "macdSignal": -25.96877577130765,
+        "macdHistogram": -29.184853723481478,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "CL=F",
+        "displayName": "WTI 原油期货",
+        "group": "commodity-fx",
+        "currency": "USD",
+        "exchangeName": "NYM",
+        "currentPrice": 90.09,
+        "pct1Day": 0.7943642519578211,
+        "pct5Day": -2.2460976343910803,
+        "pct52WeekHigh": -24.598259122865752,
+        "pct52WeekLow": 63.85958530374683,
+        "sma20": 95.94400100708008,
+        "sma50": 88.470400390625,
+        "sma200": 82.03430000305175,
+        "rsi14": 45.38853857646839,
+        "macd": 0.9121335771878307,
+        "macdSignal": 2.465733267783579,
+        "macdHistogram": -1.5535996905957483,
+        "trend": "bullish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "USDCNY=X",
+        "displayName": "美元 / 人民币",
+        "group": "commodity-fx",
+        "currency": "CNY",
+        "exchangeName": "CCY",
+        "currentPrice": 6.6987,
+        "pct1Day": -0.17286810982455042,
+        "pct5Day": -0.013436917085174778,
+        "pct52WeekHigh": -6.844762129914203,
+        "pct52WeekLow": 0.05078189177482816,
+        "sma20": 6.708410024642944,
+        "sma50": 6.729625988006592,
+        "sma200": 6.828940982818604,
+        "rsi14": 37.40117866694412,
+        "macd": -0.006356980738562612,
+        "macdSignal": -0.00815684243360767,
+        "macdHistogram": 0.0017998616950450578,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "^VIX",
+        "displayName": "VIX 恐慌指数",
+        "group": "macro",
+        "currency": "USD",
+        "exchangeName": "CXI",
+        "currentPrice": 16.34,
+        "pct1Day": 1.8703183749961345,
+        "pct5Day": 7.641631564583727,
+        "pct52WeekHigh": -53.71104815864023,
+        "pct52WeekLow": 22.12257100149476,
+        "sma20": 15.776000022888184,
+        "sma50": 15.89560001373291,
+        "sma200": 18.06735003948212,
+        "rsi14": 53.11786225520687,
+        "macd": -0.0017393638299214587,
+        "macdSignal": -0.05694157247444668,
+        "macdHistogram": 0.05520220864452522,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 1
+          }
+        ]
+      },
+      {
+        "symbol": "^TNX",
+        "displayName": "10Y 美债收益率 (%)",
+        "group": "macro",
+        "currency": "USD",
+        "exchangeName": "CGI",
+        "currentPrice": 5.293,
+        "pct1Day": 0.7231186437971183,
+        "pct5Day": 3.500198707019738,
+        "pct52WeekHigh": -0.24500565397662838,
+        "pct52WeekLow": 34.10184950595389,
+        "sma20": 4.999549984931946,
+        "sma50": 4.808739976882935,
+        "sma200": 4.439659986495972,
+        "rsi14": 80.57599287962466,
+        "macd": 0.13286390590369646,
+        "macdSignal": 0.10649692082121032,
+        "macdHistogram": 0.02636698508248614,
+        "trend": "bullish",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "DX-Y.NYB",
+        "displayName": "美元指数 DXY",
+        "group": "macro",
+        "currency": "USD",
+        "exchangeName": "NYB",
+        "currentPrice": 101.461,
+        "pct1Day": 0.08976743706464534,
+        "pct5Day": 0.3570737204029845,
+        "pct52WeekHigh": -0.3330058939096254,
+        "pct52WeekLow": 6.186289900575616,
+        "sma20": 100.09104957580567,
+        "sma50": 99.9722200012207,
+        "sma200": 99.23630512237548,
+        "rsi14": 70.05773590567175,
+        "macd": 0.47211335361163265,
+        "macdSignal": 0.2897624819887412,
+        "macdHistogram": 0.18235087162289143,
+        "trend": "bullish",
+        "rsiState": "overbought",
+        "signals": [
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
+          },
+          {
+            "type": "near-52w-high",
+            "label": "接近 52 周高"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
+          }
+        ]
+      }
+    ],
+    "crypto_fear_greed": {
+      "value": 71,
+      "classification": "Greed",
+      "classificationCn": "贪婪",
+      "timestamp": "2026-09-30T00:00:00.000Z"
+    },
+    "crypto_global": {
+      "totalMarketCapUsd": 2875919230893.198,
+      "total24hVolumeUsd": 107697526280.50032,
+      "marketCapChangePct24h": -2.549287640305059,
+      "btcDominance": 58.292578798177665,
+      "ethDominance": 11.380750662611366,
+      "activeCryptocurrencies": 21734
+    },
+    "generated_at": "2026-09-30T23:14:12.546Z"
+  }
+}
